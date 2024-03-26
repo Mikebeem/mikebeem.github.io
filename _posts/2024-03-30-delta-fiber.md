@@ -6,7 +6,7 @@ categories: [Beemsterboer IT Consultancy, Opdrachten]
 tags: [opdrachten]
 ---
 
-Vanaf dinsdag 2 april begin aan mijn opdracht bij Delta Fiber.
+Vanaf dinsdag 2 april begin aan mijn opdracht als DevOps Engineer bij Delta Fiber.
 
 Ik ga Delta Fiber helpen bij het verbeteren van hun Continuous Delivery
 processen voor enkele ontwikkelteams. Mijn focus zal in eerste instantie vooral

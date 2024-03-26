@@ -27,4 +27,10 @@ bij onder andere het CAK, DLL Group en bij De Nederlansche Bank (DNB).
 Ik heb de afgelopen 4,5 jaar met veel plezier bij Delta-N gewerkt en ik heb hier
 veel geleerd. Vanaf nu ga ik verder als zelfstandig professional.
 
-Kunnen jullie hier ook wel wat hulp bij gebruiken? Neem gerust contact met me op.
+Zijn jullie voor jullie organisatie ook op zoek naar iemand die jullie hierbij
+kan helpen? Neem gerust contact met me op.
+
+![Azure Developer](/assets/img/certifications/azure-developer-associate-600x600.png){: w="150" .left}
+![Azure Administrator](/assets/img/certifications/azure-administrator-associate-600x600.png){: w="150" .left}
+![Azure DevOps](/assets/img/certifications/azure-devops-engineer-expert-600x600.png){: w="150" .left}
+![IT4IT Foundation](/assets/img/certifications/badge-it4it-foundation.png){: w="150" .left}

@@ -10,21 +10,22 @@ Met mijn ervaring als DevOps Consultant help ik graag verschillende organisaties
 in het verbeteren van de DevOps werkwijze en practices. Hieronder staan enkele pakketten
 waarmee ik jullie organisaties van dienst kan zijn.
 
+In alle beginnen we natuurlijk met een persoonlijke kennismaking.
 Als je interesse hebt of benieuwd bent naar andere mogelijkheden,
 [neem gerust contact met me op](mailto:info@mikebeemsterboer.nl).
 
 ## Kickstart DevOps
 
 Met het kickstart DevOps pakket help ik jullie om een start te maken in de
-DevOps transitite. De inhoud van dit pakket zal op maat gemaakt worden, maar kan
-bijvoorbeeld bestaan uit de volgende onderelen:
+DevOps transitie. De inhoud van dit pakket zal op maat gemaakt worden, maar kan
+bijvoorbeeld bestaan uit de volgende onderdelen:
 
 - Assessment van de huidige situatie
 - Ontwikkelen van een verbeterplan
 - Setup van basis CI/CD pipelines en herbruikbare templates
 - Training voor het team
 
-Dit pakket kan eenmalig afgenomen worden, of als maandelijk abonnement.
+Dit pakket kan eenmalig afgenomen worden, of als maandelijks abonnement.
 
 ## Continuous Improvement
 

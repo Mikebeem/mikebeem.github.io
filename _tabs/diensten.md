@@ -11,7 +11,7 @@ in het verbeteren van de DevOps werkwijze en practices. Hieronder staan enkele p
 waarmee ik jullie organisaties van dienst kan zijn.
 
 Als je interesse hebt of benieuwd bent naar andere mogelijkheden,
-[neem gerust contact met me op](mailto::info@mikebeemsterboer.nl).
+[neem gerust contact met me op](mailto:info@mikebeemsterboer.nl).
 
 ## Kickstart DevOps
 

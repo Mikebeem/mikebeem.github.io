@@ -8,9 +8,10 @@ order: 1
 
 Met mijn ervaring als DevOps Consultant help ik graag verschillende organisaties
 in het verbeteren van de DevOps werkwijze en practices. Hieronder staan enkele pakketten
-waarmee ik jullie organisaties van dienst kan zijn.
+waarmee ik jouw organisatie van dienst kan zijn.
 
-In alle beginnen we natuurlijk met een persoonlijke kennismaking.
+In alle pakketten beginnen we natuurlijk met een persoonlijke kennismaking om samen te kijken wat we voor elkaar kunnen betekenen.
+Als deze standaard pakketten niet aansluiten bij jullie wensen, dan kunnen we samen een pakket samenstellen.
 Als je interesse hebt of benieuwd bent naar andere mogelijkheden,
 [neem gerust contact met me op](mailto:info@mikebeemsterboer.nl).
 

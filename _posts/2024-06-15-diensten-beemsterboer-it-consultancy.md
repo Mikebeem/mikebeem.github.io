@@ -8,10 +8,10 @@ pin: true
 ---
 
 Met mijn ervaring als DevOps Consultant help ik graag verschillende organisaties
-in het verbeteren van de DevOps werkwijze en practices. Omdat zoveel mogelijk
+in het verbeteren van de DevOps werkwijze en practices. Om zoveel mogelijk
 organisaties te kunnen helpen, heb ik enkele standaard pakketten beschreven op
-mijn website. Deze pakket dienen vooral als voorbeeld om aan te geven hoe ik
-jullie organisatie ook kan helpen zonder dat jullie met als freelancer inhuren.
+mijn website. Deze pakketten dienen vooral als voorbeeld om aan te geven hoe ik
+jullie organisatie kan helpen. Deze pakketten zijn volledig op maat te maken aan jullie wensen.
 
 Enkele voorbeelden:
 

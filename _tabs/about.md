@@ -28,7 +28,7 @@ Ik heb de afgelopen 4,5 jaar met veel plezier bij Delta-N gewerkt en ik heb hier
 veel geleerd. Vanaf nu ga ik verder als zelfstandig professional.
 
 Zijn jullie voor jullie organisatie ook op zoek naar iemand die jullie hierbij
-kan helpen? Neem gerust contact met me op.
+kan helpen? [Neem gerust contact met me op](mailto::info@mikebeemsterboer.nl).
 
 ![Azure Developer](/assets/img/certifications/azure-developer-associate-600x600.png){: w="150" .left}
 ![Azure Administrator](/assets/img/certifications/azure-administrator-associate-600x600.png){: w="150" .left}

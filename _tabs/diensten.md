@@ -52,3 +52,27 @@ Enkele onderdelen die in dit pakket kunnen zitten zijn:
 - Implementatie van geavanceerde DevOps tools en practices
 - Integratie van infrastructuur als code (IaC) en automatisering
 - Uitgebreide training en workshops voor het team
+
+## DevOps tooling support
+
+Als jouw organisatie gebruik maakt van DevOps tooling, maar niemand beschikbaar
+heeft om hier voldoende tijd aan te besteden of niemand in huis heeft met
+voldoende kennis of simpelweg op zoek is naar extra kennis, kan ik hier support
+op bieden. Bij DevOps tools kun je onder andere denken aan Azure DevOps, GitHub,
+SonarQube of SonarCloud.
+
+Jullie kunnen tegen een maandelijkse fee gebruik maken van mijn kennis op het
+gebied van deze DevOps tools. Jullie kunnen alle vragen bij me kwijt, ik kan
+helpen bij de inrichting, of de inrichting verzorgen en de gebruikers trainen.
+
+Voor vragen, [neem contact met me op](mailto:info@mikebeemsterboer.nl).
+
+## Training
+
+Naast de support op DevOps tools kan ik jullie ook voorzien van training. Dit
+kan op het geboed van DevOps zelf, of specifiek op bepaalde tools. Denk hierbij
+aan Azure DevOps trainingen, niet alleen voor het beheren van Azure DevOps, maar
+ook voor gebruikers. Voor vrijwel alle onderwerpen rondom DevOps en Azure DevOps
+kan ik een training op maat maken.
+
+Voor interessen, [neem contact met me op](mailto:info@mikebeemsterboer.nl).

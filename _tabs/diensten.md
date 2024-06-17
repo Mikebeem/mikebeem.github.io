@@ -76,4 +76,4 @@ aan Azure DevOps trainingen, niet alleen voor het beheren van Azure DevOps, maar
 ook voor gebruikers. Voor vrijwel alle onderwerpen rondom DevOps en Azure DevOps
 kan ik een training op maat maken.
 
-Voor interessen, [neem contact met me op](mailto:info@mikebeemsterboer.nl).
+Voor interesse, [neem contact met me op](mailto:info@mikebeemsterboer.nl).

@@ -2,24 +2,27 @@
 # the default layout is 'page'
 icon: fas fa-cubes
 order: 1
+toc: true
 ---
 
-# Pakketten
-
+<!-- markdownlint-disable MD041 -->
 Met mijn ervaring als DevOps Consultant help ik graag verschillende organisaties
+<!-- markdownlint-enable MD041 -->
 in het verbeteren van de DevOps werkwijze en practices. Hieronder staan enkele pakketten
 waarmee ik jouw organisatie van dienst kan zijn.
 
-In alle pakketten beginnen we natuurlijk met een persoonlijke kennismaking om samen te kijken wat we voor elkaar kunnen betekenen.
-Als deze standaard pakketten niet aansluiten bij jullie wensen, dan kunnen we samen een pakket samenstellen.
+In alle pakketten beginnen we natuurlijk met een persoonlijke kennismaking om
+samen te kijken wat we voor elkaar kunnen betekenen.
+Als deze standaard pakketten niet aansluiten bij jullie wensen, dan kunnen we
+samen een pakket samenstellen.
 Als je interesse hebt of benieuwd bent naar andere mogelijkheden,
 [neem gerust contact met me op](mailto:info@mikebeemsterboer.nl).
 
 ## Kickstart DevOps
 
-Met het kickstart DevOps pakket help ik jullie om een start te maken in de
-DevOps transitie. De inhoud van dit pakket zal op maat gemaakt worden, maar kan
-bijvoorbeeld bestaan uit de volgende onderdelen:
+Met kickstart DevOps help ik jullie om een start te maken in jullie DevOps transitie.
+Uiteraard stemmen we jullie wensen af, maar voor een Kickstart DevOps kun je
+denken aan de volgende onderdelen:
 
 - Assessment van de huidige situatie
 - Ontwikkelen van een verbeterplan
@@ -30,9 +33,9 @@ Dit pakket kan eenmalig afgenomen worden, of als maandelijks abonnement.
 
 ## Continuous Improvement
 
-Het Continuous Improvement pakket kan een logisch vervolg zijn op een DevOps
-kickstart. Dit pakket biedt ik aan als abonnement. Als onderdeel van dit pakket
-zal ik een inventarisatie maken van de huidige inrichting van de CI/CD pipelines.
+Het Continuous Improvement pakket kan een vervolg zijn op de DevOps kickstart.
+Dit pakket biedt ik aan als abonnement. Als onderdeel van dit pakket zal ik een
+inventarisatie maken van de huidige inrichting van de CI/CD pipelines.
 Ik ga vervolgens periodiek op zoek naar de bottlenecks en zal de pipelines
 hierop aanpassen.
 
@@ -46,8 +49,8 @@ vragen of problemen voor jullie op te pakken.
 
 ## Advanced DevOps Transformation
 
-In het Advanced DevOps transformation pakket ga ik dieper in op jullie omgeving.
-Enkele onderdelen die in dit pakket kunnen zitten zijn:
+Met Advanced DevOps transformation ga ik dieper in op jullie omgeving.
+Enkele onderdelen die in dit pakket kunnen zitten:
 
 - In-depth assessment en roadmap creatie
 - Implementatie van geavanceerde DevOps tools en practices
@@ -63,8 +66,8 @@ op bieden. Bij DevOps tools kun je onder andere denken aan Azure DevOps, GitHub,
 SonarQube of SonarCloud.
 
 Jullie kunnen tegen een maandelijkse fee gebruik maken van mijn kennis op het
-gebied van deze DevOps tools. Jullie kunnen alle vragen bij me kwijt, ik kan
-helpen bij de inrichting, of de inrichting verzorgen en de gebruikers trainen.
+gebied van deze DevOps tools. Jullie kunnen vragen aan me stellen, ik kan
+helpen bij de inrichting, de inrichting verzorgen en de gebruikers trainen.
 
 Voor vragen, [neem contact met me op](mailto:info@mikebeemsterboer.nl).
 

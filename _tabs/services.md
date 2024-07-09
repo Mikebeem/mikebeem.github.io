@@ -9,15 +9,34 @@ order: 1
 <!-- markdownlint-disable MD041 -->
 Met mijn ervaring als DevOps Consultant help ik graag verschillende organisaties
 <!-- markdownlint-enable MD041 -->
-in het verbeteren van de DevOps werkwijze en practices. Hieronder staan enkele pakketten
-waarmee ik jouw organisatie van dienst kan zijn.
+in het verbeteren van de DevOps werkwijze en practices. Hieronder staan enkele
+voorbeelden van opdrachten waarmee ik jouw organisatie van dienst kan zijn.
 
-In alle pakketten beginnen we natuurlijk met een persoonlijke kennismaking om
-samen te kijken wat we voor elkaar kunnen betekenen.
-Als deze standaard pakketten niet aansluiten bij jullie wensen, dan kunnen we
-samen een pakket samenstellen.
-Als je interesse hebt of benieuwd bent naar andere mogelijkheden,
+Als je interesse hebt of benieuwd bent naar de mogelijkheden,
 [neem gerust contact met me op](mailto:info@mikebeemsterboer.nl).
+
+## CI/CD Pipeline Setup
+
+Als jouw organisatie al gebruik maakt van Azure DevOps, GitHub of vergelijkbare
+tooling, kan ik helpen bij het opzetten of verbeteren van jullie pipelines.
+
+## Infrastructure as Code (IaC)
+
+Opzetten en schrijven van Azure Bicep templates, waarmee ik kan helpen om
+resources op een geautomatiseerde en consistente manier uit te rollen in Azure.
+
+## Automatisering (Builds, Deployments, repetitieve taken)
+
+Als jouw organisatie nog "met de hand" builds of deployments uitvoert, kan ik
+helpen bij het automatiseren hiervan. Dit geldt ook voor andere repetitieve taken
+die op dit moment nog handmatig uitgevoerd worden.
+
+## Azure DevOps Audit
+
+Ik kan een check doen op jullie Azure DevOps omgeving. Aan de hand van deze check
+kan ik jullie van advies voorzien om Azure DevOps nog effectiever in te zetten.
+Aan de hand van dit advies kan ik uiteraard ook helpen bij het implementeren van
+de verbeterpunten.
 
 ## Kickstart DevOps
 
@@ -30,15 +49,12 @@ denken aan de volgende onderdelen:
 - Setup van basis CI/CD pipelines en herbruikbare templates
 - Training voor het team
 
-Dit pakket kan eenmalig afgenomen worden, of als maandelijks abonnement.
-
 ## Continuous Improvement
 
 Het Continuous Improvement pakket kan een vervolg zijn op de DevOps kickstart.
-Dit pakket biedt ik aan als abonnement. Als onderdeel van dit pakket zal ik een
-inventarisatie maken van de huidige inrichting van de CI/CD pipelines.
-Ik ga vervolgens periodiek op zoek naar de bottlenecks en zal de pipelines
-hierop aanpassen.
+Ik zal een inventarisatie maken van de huidige inrichting van de CI/CD pipelines.
+Vervolgens ga ik periodiek op zoek naar de bottlenecks in jullie pipelines en zal
+de pipelines hierop aanpassen.
 
 Daarnaast ben ik beschikbaar voor advies en ondersteuning om eventuele ad-hoc
 vragen of problemen voor jullie op te pakken.
@@ -46,7 +62,6 @@ vragen of problemen voor jullie op te pakken.
 - Maandelijkse check-ins en optimalisatie
 - Performance monitoring en aanpassing van CI/CD pipelines
 - On-demand advies en ondersteuning
-- Duur: Maandelijks abonnement
 
 ## Advanced DevOps Transformation
 

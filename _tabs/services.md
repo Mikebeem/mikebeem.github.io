@@ -1,5 +1,6 @@
 ---
 # the default layout is 'page'
+layout: page_toc
 icon: fas fa-cubes
 order: 1
 toc: true

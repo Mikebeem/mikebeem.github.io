@@ -5,8 +5,6 @@ order: 1
 toc: true
 ---
 
-# Services
-
 <!-- markdownlint-disable MD041 -->
 Met mijn ervaring als DevOps Consultant help ik graag verschillende organisaties
 <!-- markdownlint-enable MD041 -->

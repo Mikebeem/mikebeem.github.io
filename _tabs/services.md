@@ -1,9 +1,9 @@
 ---
 # the default layout is 'page'
-layout: page_toc
 icon: fas fa-cubes
-order: 1
+layout: page_toc
 toc: true
+order: 1
 ---
 
 <!-- markdownlint-disable MD041 -->

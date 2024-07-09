@@ -1,23 +1,27 @@
 ---
 layout: default
-refactor: true
 panel_includes:
   - toc
-
+toc: true
 ---
 
 {% include lang.html %}
 
 <article class="px-1">
-  <header>
-    <h1 data-toc-skip>{{ page.title }}</h1>
-    {% if page.description %}
-      <p class="post-desc fw-light mb-4">{{ page.description }}</p>
-    {% endif %}
-  </header>
-
-  <div class="content">
+  {% if page.layout == 'page' or page.collection == 'tabs' %}
+    {% assign tab_key = page.title | downcase %}
+    {% assign title = site.data.locales[lang].tabs[tab_key] | default: page.title %}
+    <h1 class="dynamic-title">
+      {{ title }}
+    </h1>
+    <section id="toc-custom-wrapper">
+      <h4 class="panel-heading ps-3 mb-2">Contents</h2>
+      {% include toc_custom.html html=content class="toc-list" %}
+    </section>
+    <div class="content">
+      {{ content }}
+    </div>
+  {% else %}
     {{ content }}
-  </div>
-
+  {% endif %}
 </article>

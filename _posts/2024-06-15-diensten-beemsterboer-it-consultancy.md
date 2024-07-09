@@ -1,22 +1,25 @@
 ---
 layout: post
-title: DevOps Services Beemsterboer IT Consultancy
+title: DevOps Opdrachten
 date: 2024-06-15 14:45 +0100
-categories: [Beemsterboer IT Consultancy, DevOps, Diensten, Services]
-tags: [DevOps, services, diensten]
+categories: [Beemsterboer IT Consultancy, DevOps, Services]
+tags: [DevOps, services]
 pin: true
 ---
 
 Met mijn ervaring als DevOps Consultant help ik graag verschillende organisaties
 in het verbeteren van de DevOps werkwijze en practices. Om zoveel mogelijk
-organisaties te kunnen helpen, heb ik enkele standaard pakketten beschreven op
-mijn website. Deze pakketten dienen vooral als voorbeeld om aan te geven hoe ik
-jullie organisatie kan helpen. Deze pakketten zijn volledig op maat te maken aan
-jullie wensen.
+organisaties te kunnen helpen, heb ik enkele voorbeeld opdrachten beschreven op
+mijn website. Deze dienen vooral als voorbeeld om aan te geven hoe ik
+jullie organisatie kan helpen.
 
 Enkele voorbeelden:
 
-- Kickstart DevOps: om jullie te helpen om een start te maken met DevOps practises
+- CI/CD Pipeline Setup: opzetten en verbeteren van pipelines.
+- Infrastructure as Code: opzetten en schrijven van Azure Bicep templates.
+- Automatisering: schrijven van scripts voor het automatiseren van builds,
+deployments of andere repetitieve taken.
+- Kickstart DevOps: om jullie te helpen om een start te maken met DevOps practises.
 - Continuous Improvement: als vervolg op de kickstart of los af te nemen. Een
 langere samenwerking om continue te verbeteren.
 - Advanced DevOps Transformation: een intensievere samenwerking.

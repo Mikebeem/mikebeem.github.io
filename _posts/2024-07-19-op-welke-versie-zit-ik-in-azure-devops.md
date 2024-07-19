@@ -11,7 +11,7 @@ in de gaten houdt, zie je weleens interessante nieuwe features terugkomen die je
 niet direct terugziet in je eigen Azure DevOps omgeving. Onderaan de pagina staat
 ook altijd netjes:
 
-```md
+```plaintext
 Note
 
 These features will roll out over the next two to three weeks.

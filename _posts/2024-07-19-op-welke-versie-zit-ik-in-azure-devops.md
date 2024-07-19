@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Op welke versie zit ik in Azure DevOps?
+title: Op welke versie van Azure DevOps zit ik?
 date: 2024-07-19 14:45 +0100
 categories: [Azure DevOps]
 tags: [Azure DevOps, Features]
@@ -11,7 +11,7 @@ in de gaten houdt, zie je weleens interessante nieuwe features terugkomen die je
 niet direct terugziet in je eigen Azure DevOps omgeving. Onderaan de pagina staat
 ook altijd netjes:
 
-```Text
+```md
 Note
 
 These features will roll out over the next two to three weeks.

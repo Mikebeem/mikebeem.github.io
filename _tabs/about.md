@@ -1,7 +1,7 @@
 ---
 # the default layout is 'page'
 icon: fas fa-info-circle
-order: 4
+order: 2
 ---
 
 # Mike Beemsterboer - DevOps Consultant
@@ -22,10 +22,9 @@ alles steeds een stukje beter te willen doen. Om continu te leren en continu te
 blijven verbeteren.
 
 Ik heb in de afgelopen jaren bij verschillende organisaties mogen werken in deze
-rol. Eerst bij Vivat, een grote Nederlandse verzekeraar, daarna namens Delta-N
-bij onder andere het CAK, DLL Group en bij De Nederlansche Bank (DNB).
-Ik heb de afgelopen 4,5 jaar met veel plezier bij Delta-N gewerkt en ik heb hier
-veel geleerd. Vanaf nu ga ik verder als zelfstandig professional.
+rol. Eerst bij Vivat (nu Athora), een grote Nederlandse verzekeraar, daarna
+namens Delta-N bij onder andere het CAK, DLL Group en bij De Nederlansche Bank (DNB)
+en op dit moment voer ik een opdracht uit bij Delta Fiber Nederland.
 
 Zijn jullie voor jullie organisatie ook op zoek naar iemand die jullie hierbij
 kan helpen? [Neem gerust contact met me op](mailto:info@mikebeemsterboer.nl).

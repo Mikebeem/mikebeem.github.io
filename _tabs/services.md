@@ -73,17 +73,14 @@ Enkele onderdelen die in dit pakket kunnen zitten:
 - Integratie van infrastructuur als code (IaC) en automatisering
 - Uitgebreide training en workshops voor het team
 
-## DevOps tooling support
+## DevOps as a service
 
-Als jouw organisatie gebruik maakt van DevOps tooling, maar niemand beschikbaar
-heeft om hier voldoende tijd aan te besteden of niemand in huis heeft met
-voldoende kennis of simpelweg op zoek is naar extra kennis, kan ik hier support
-op bieden. Bij DevOps tools kun je onder andere denken aan Azure DevOps, GitHub,
-SonarQube of SonarCloud.
-
-Jullie kunnen tegen een maandelijkse fee gebruik maken van mijn kennis op het
-gebied van deze DevOps tools. Jullie kunnen vragen aan me stellen, ik kan
-helpen bij de inrichting, de inrichting verzorgen en de gebruikers trainen.
+Voor kleinere organisaties die mogelijk niet de middelen hebben voor een
+fulltime DevOps engineer, bied ik mijn diensten aan als parttime DevOps platform
+engineer. Deze flexibele aanpak stelt organisaties in staat om te profiteren van
+deskundige begeleiding zonder de verplichting van een fulltime inhuur. Ik kan
+helpen bij het opzetten en onderhouden van een DevOps platform dat aansluit
+bij jullie specifieke behoeften en doelen.
 
 Voor vragen, [neem contact met me op](mailto:info@mikebeemsterboer.nl).
 

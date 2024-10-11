@@ -7,9 +7,10 @@ tags: [DevOps, automatisering]
 ---
 
 In de moderne software ontwikkeling is snelheid alles. Teams die snel kunnen
-bouwen, testen en leveren, winnen de race om innovatie en klanttevredenheid.
+bouwen, testen en leveren, presteren vaak
+beter op het gebied van innovatie en klanttevredenheid.
 Maar hoe zorg je ervoor dat die snelheid hand in hand gaat met kwaliteit?
-Een deel van het antwoord ligt vaak in **automatisering**.
+Een deel van het antwoord ligt in **automatisering**.
 
 Automatisering in het ontwikkelproces kan de productiviteit van je
 ontwikkelteam flink verbeteren, en tegelijkertijd de kwaliteit van de
@@ -18,7 +19,7 @@ helpen om sneller en efficiënter te werken.
 
 ## 1. **Versnelde feedback loops**
 
-Een van de grootste voordelen van automatisering in software ontwikkeling is
+Een van de grootste voordelen van automatisering is
 de mogelijkheid om snelle feedback te krijgen. Door middel van Continuous
 Integration (CI) worden veranderingen in de code automatisch getest zodra
 ze zijn doorgevoerd. Hierdoor krijgt het team vrijwel direct feedback over
@@ -34,7 +35,7 @@ pipelines weet je meteen of alles functioneert zoals het hoort.
 
 Een goed ingerichte CI/CD-pipeline is als een geoliede machine die ervoor
 zorgt dat code, zodra deze is goedgekeurd, snel en zonder onnodige handmatige
-interventie in productie wordt genomen. Dit vermindert het risico op
+interventie in productie kan worden genomen. Dit vermindert het risico op
 menselijke fouten, versnelt de levertijd, en zorgt voor een constante flow
 van nieuwe functionaliteit en verbeteringen.
 
@@ -69,7 +70,7 @@ het nu gaat om testen, deployen of configuratiebeheer, consistent wordt
 uitgevoerd zonder de kans op menselijke fouten.
 
 Bijvoorbeeld, een goed opgezette CI/CD-pipeline zal een deployment op
-dezelfde manier uitvoeren, ongeacht hoe vaak je het uitvoert. Dit zorgt voor
+dezelfde manier uitvoeren op alle omgevingen, ongeacht hoe vaak je het uitvoert. Dit zorgt voor
 voorspelbaarheid en vertrouwen in de kwaliteit van de software die je
 oplevert. Door minder fouten te maken, hoeft het team minder tijd te
 besteden aan het verhelpen van bugs en kan het zich richten op het bouwen
@@ -119,5 +120,5 @@ kunt optimaliseren.
 
 ## Interesse?
 
-Wil je meer weten over hoe DevOps as a Service jouw organisatie kan helpen? [Neem
+Wil je meer weten over hoe ik jouw organisatie kan helpen? [Neem
 contact op voor een vrijblijvend gesprek](mailto:info@mikebeemsterboer.nl).

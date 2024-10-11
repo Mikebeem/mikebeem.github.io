@@ -1,7 +1,7 @@
 ---
 layout: post
 title: De impact van automatisering op teamproductiviteit
-date: 2024-10-11 17:35 +0100
+date: 2024-10-11 15:35 +0100
 categories: [DevOps]
 tags: [DevOps, automatisering]
 ---

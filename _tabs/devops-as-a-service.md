@@ -8,21 +8,21 @@ order: 3
 
 # DevOps as a Service (DaaS)
 
-## Verbeter je softwareontwikkeling met flexibele DevOps-oplossingen
+## Flexibele DevOps-oplossingen
 
-Ben je een kleine organisatie en wil je DevOps-praktijken implementeren zonder de
-kosten van een fulltime engineer? Met **DevOps as a Service** (DaaS) krijg je toegang
+Wil je DevOps practices implementeren zonder de kosten van een fulltime
+engineer? Met **DevOps as a Service** (DaaS) krijg je toegang
 tot een DevOps-expert op abonnementsbasis. Hierdoor profiteer je van expertise en
 ondersteuning op maat, zonder de verplichting van een fulltime aanstelling.
 
-### Wat is DevOps as a Service?
+## Wat is DevOps as a Service?
 
 DevOps as a Service is een complete oplossing voor jouw softwareontwikkelingsproces.
 Als **DevOps Consultant** help ik je om je DevOps-platform in te richten,
 te optimaliseren en te onderhouden. Zo kun jij je concentreren op het
 bouwen van software, terwijl ik zorg dat je processen soepel verlopen.
 
-### Voor wie is DevOps as a Service geschikt?
+## Voor wie is DevOps as a Service geschikt?
 
 Deze dienst is ideaal voor:
 
@@ -33,7 +33,7 @@ Deze dienst is ideaal voor:
 - Bedrijven die hun **ontwikkel- en releasecycli willen versnellen** door efficiënte
   DevOps-praktijken toe te passen.
 
-### Abonnementsvormen
+## Abonnementsvormen
 
 DevOps as a Service is beschikbaar in verschillende abonnementsvormen, zodat je
 altijd een optie kunt kiezen die past bij jouw organisatie. Daarnaast kunnen we
@@ -60,7 +60,7 @@ het abonnement volledig op maat samenstellen tijdens de kennismaking.
    - Integratie van tools zoals SonarCloud en GitLeaks.
    - 16 uur support per maand.
 
-### Wat kun je verwachten van mijn aanpak?
+## Wat kun je verwachten van mijn aanpak?
 
 - **Azure DevOps Setup & Beheer**  
   Ik help je bij het opzetten en onderhouden van jouw Azure DevOps-omgeving. Van
@@ -84,7 +84,7 @@ het abonnement volledig op maat samenstellen tijdens de kennismaking.
   DevOps is een continu proces van optimalisatie. Samen identificeren we
   knelpunten en voeren we verbeteringen door, zodat je organisatie blijft groeien.
 
-### Hoe werkt het?
+## Hoe werkt het?
 
 1. **Kennismakingsgesprek**  
    We beginnen met een gesprek om je situatie en behoeften in kaart te brengen. Samen
@@ -99,7 +99,7 @@ het abonnement volledig op maat samenstellen tijdens de kennismaking.
    Na de implementatie blijf ik je ondersteunen. Je ontvangt regelmatige updates,
    rapportages en aanbevelingen voor verbeteringen.
 
-### Interesse?
+## Interesse?
 
 Wil je meer weten over hoe DevOps as a Service jouw organisatie kan helpen? [Neem
 contact op voor een vrijblijvend gesprek](mailto:info@mikebeemsterboer.nl).

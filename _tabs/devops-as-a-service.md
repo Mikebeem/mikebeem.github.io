@@ -1,6 +1,6 @@
 ---
 # the default layout is 'page'
-icon: fas fa-cubes
+icon: fas fa-rocket
 layout: page_toc
 toc: true
 order: 3

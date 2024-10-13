@@ -4,7 +4,7 @@ title: Beemsterboer IT Consultancy
 date: 2024-03-25 17:15 +0100
 categories: [Beemsterboer IT Consultancy, About]
 tags: [Beemsterboer IT Consultancy]
-pin: true
+pin: false
 ---
 
 Vanaf 2 april 2024 start ik als freelance DevOps Consultant.

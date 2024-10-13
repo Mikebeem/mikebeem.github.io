@@ -6,7 +6,7 @@ categories: [DevOps]
 tags: [DevOps, automatisering]
 ---
 
-In de moderne software ontwikkeling is snelheid alles. Teams die snel kunnen
+Bij software ontwikkeling is snelheid alles. Teams die snel kunnen
 bouwen, testen en leveren, presteren vaak
 beter op het gebied van innovatie en klanttevredenheid.
 Maar hoe zorg je ervoor dat die snelheid hand in hand gaat met kwaliteit?

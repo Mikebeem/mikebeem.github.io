@@ -4,7 +4,7 @@ title: DevOps Opdrachten
 date: 2024-06-15 14:45 +0100
 categories: [Beemsterboer IT Consultancy, DevOps, Services]
 tags: [DevOps, services]
-pin: true
+pin: false
 ---
 
 Met mijn ervaring als DevOps Consultant help ik graag verschillende organisaties

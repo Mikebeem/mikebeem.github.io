@@ -1,11 +1,7 @@
 ---
-layout: page
-title: Resume
-published: false
-permalink: about/resume.html
-date: 2024-10-11 15:35 +0100
-categories: [DevOps]
-tags: [DevOps, automatisering]
+# the default layout is 'page'
+icon: fas fa-info-circle
+
 ---
 
 # Working Experience

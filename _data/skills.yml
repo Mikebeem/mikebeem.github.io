@@ -1,0 +1,17 @@
+tools:
+- name: Azure DevOps
+- name: Azure
+- name: GitHub
+- name: Argo CD
+- name: Kubernetes
+- name: Nexus
+- name: Mend
+- name: SonarCloud / SonarQube
+- name: PowerShell
+- name: Typescript
+
+practices:
+- name: DevOps
+- name: CI/CD
+- name: Scrum
+- name: Automation

@@ -70,9 +70,9 @@ het nu gaat om testen, deployen of configuratiebeheer, consistent wordt
 uitgevoerd zonder de kans op menselijke fouten.
 
 Bijvoorbeeld, een goed opgezette CI/CD-pipeline zal een deployment op
-dezelfde manier uitvoeren op alle omgevingen, ongeacht hoe vaak je het uitvoert. Dit zorgt voor
-voorspelbaarheid en vertrouwen in de kwaliteit van de software die je
-oplevert. Door minder fouten te maken, hoeft het team minder tijd te
+dezelfde manier uitvoeren op alle omgevingen, ongeacht hoe vaak je het uitvoert.
+Dit zorgt voor voorspelbaarheid en vertrouwen in de kwaliteit van de software die
+je oplevert. Door minder fouten te maken, hoeft het team minder tijd te
 besteden aan het verhelpen van bugs en kan het zich richten op het bouwen
 van nieuwe functionaliteit.
 

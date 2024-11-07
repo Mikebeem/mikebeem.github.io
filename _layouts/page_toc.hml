@@ -8,16 +8,18 @@ toc: true
 {% include lang.html %}
 
 <article class="px-1">
-  {% if page.layout == 'page' or page.collection == 'tabs' %}
+  {% if page.layout == 'page_toc' %}
     {% assign tab_key = page.title | downcase %}
     {% assign title = site.data.locales[lang].tabs[tab_key] | default: page.title %}
     <h1 class="dynamic-title">
       {{ title }}
     </h1>
-    <section id="toc-custom-wrapper">
-      <h4 class="panel-heading ps-3 mb-2">Contents</h2>
-      {% include toc_custom.html html=content class="toc-list" %}
-    </section>
+    {% if page.toc == true %}
+      <section id="toc-custom-wrapper">
+        <h4 class="panel-heading ps-3 mb-2">Contents</h2>
+        {% include toc_custom.html html=content class="toc-list" h_min=page.h_min h_max=page.h_max %}
+      </section>
+    {% endif %}
     <div class="content">
       {{ content }}
     </div>

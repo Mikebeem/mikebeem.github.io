@@ -2,15 +2,16 @@
 # the default layout is 'page'
 icon: fas fa-info-circle
 order: 2
+title: Mike Beemsterboer - DevOps Consultant
 ---
-
-# Mike Beemsterboer - DevOps Consultant
 
 Als DevOps Consultant richt ik me op de verbetering van de processen en
 samenwerking van IT teams die betrokken zijn bij software ontwikkeling en operatie.
 Ik help organisaties om Continuous Delivery toe te passen. Om daarmee software
 te leveren van een betere kwaliteit, met meer efficiëntie en waarbij de
 engineers dit met meer plezier doen.
+
+[Mijn CV is hier te vinden](/about/resume).
 
 Continuous Delivery en DevOps gaan verder dan alleen automatisering en het
 inrichten van tools. Het gaat ook om het aanpakken van het totale proces van

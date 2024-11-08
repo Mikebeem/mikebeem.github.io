@@ -3,7 +3,7 @@ layout: post
 title: The impact of automation on team productivity
 date: 2024-10-11 15:35 +0100
 categories: [DevOps]
-tags: [DevOps, automatisering]
+tags: [DevOps, Automation, Practice]
 permalink: /posts/the-impact-of-automation-on-team-productivity
 lang: en
 

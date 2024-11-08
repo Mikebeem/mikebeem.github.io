@@ -2,8 +2,8 @@
 layout: post
 title: DevOps Projects
 date: 2024-06-15 14:45 +0100
-categories: [Beemsterboer IT Consultancy, DevOps, Services]
-tags: [DevOps, services]
+categories: [Beemsterboer IT Consultancy]
+tags: [Beemsterboer IT Consultancy]
 pin: false
 permalink: /posts/devops-projects
 lang: en

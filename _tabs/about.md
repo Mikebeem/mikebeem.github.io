@@ -4,7 +4,7 @@
 icon: fas fa-info-circle
 order: 2
 title: Mike Beemsterboer - DevOps Consultant
-permalink: /about
+permalink: /about/
 lang: nl
 ---
 

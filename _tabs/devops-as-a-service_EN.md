@@ -5,7 +5,7 @@ icon: fas fa-rocket
 layout: page_toc
 toc: true
 order: 3
-permalink: /devops-as-a-service
+permalink: /devops-as-a-service/
 lang: en
 ---
 

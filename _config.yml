@@ -1,4 +1,11 @@
 # The Site Configuration
+plugins:
+  - jekyll-polyglot
+
+languages: ['nl', 'en']
+default_lang: 'nl'
+exclude_from_localization: ['javascript', 'images', 'css', 'sitemap.xml', '_includes/sidebar.html']
+parallel_localization: false
 
 # Import the theme
 theme: jekyll-theme-chirpy
@@ -27,7 +34,6 @@ url: "https://mikebeemsterboer.nl"
 
 github:
   username: mikebeem # change to your github username
-
 
 social:
   # Change to your full name.

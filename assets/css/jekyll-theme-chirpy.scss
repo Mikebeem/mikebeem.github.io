@@ -8,6 +8,63 @@
 ';
 
 /* append your custom style below */
+/* append your custom style below */
+.nav-lang {
+  list-style: none; /* This removes the list dot */
+  display: flex;
+  align-items: center;
+  padding: 0;
+  margin: 0;
+}
+
+.nav-lang .nav-item {
+  margin-left: 5px;
+}
+
+.nav-lang .nav-link {
+  display: flex;
+  align-items: center;
+  padding: 0;
+}
+
+.custom-dropdown-wrapper {
+  margin-left: auto;
+  margin-right: 100px;
+  border: 1px solid var(--search-border-color);  /* Use theme's border color or fallback */
+  border-radius: 50px;                         /* Rounded corners to match the search bar */
+  background-color: var(--color-bg);           /* Theme background color or fallback */
+  padding: 3px 16px;                           /* Adjust padding to match the search bar */
+  display: inline-flex;                        /* Flex to align items */
+  align-items: center;                         /* Center content vertically */
+  box-shadow: var(--shadow, 0 2px 4px rgba(0,0,0,0.1)); /* Subtle shadow like the search bar */
+  transition: background-color 0.3s, border-color 0.3s;
+}
+
+.custom-dropdown {
+  width: 100%;
+  border: none;                                /* Remove default border */
+  background: transparent;                     /* Inherit background */
+  color: var(--text-color);              /* Theme text color or fallback */
+  font-size: 14px;
+  border-radius: 50px;                         /* Same rounded corners */
+  padding: 0;                           /* Inner padding for dropdown */
+  cursor: pointer;
+  outline: none;                               /* Remove focus outline */
+}
+
+.custom-dropdown:focus {
+  outline: none;
+}
+.custom-dropdown option {
+  background-color: var(--sidebar-bg); /* Background color */
+  color: var(--text-color);          /* Text color */
+  padding: 3px 12px;                       /* Padding for options */
+}
+/* Hover effect for options */
+.custom-dropdown option:hover {
+  background-color: var(--sidebar-hover-bg, #eee); /* Background color on hover */
+  color: var(--sidebar-active-color, #000);          /* Text color on hover */
+}
 
 #toc-custom-wrapper {
   border-left: 1px solid rgba(158, 158, 158, 0.17);

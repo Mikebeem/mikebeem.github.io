@@ -6,94 +6,90 @@ layout: page_toc
 toc: true
 h_max: 2
 title: Freelance DevOps Consultant
+lang: nl
 
 ---
 
-## Executive Summary
+## Samenvatting
 
-* 15+ years experience with automation, DevOps and Azure DevOps (TFS)
-* Azure DevOps (AZ-400), developer (AZ-204) and administrator (AZ-104) Certification
-* Hands-on experience in DevOps tools
-* Experience in supporting development teams with DevOps practices and tools
-* Proficient in DevOps tools, CI/CD Pipelines and automation
+* 15+ jaar ervaring met automatisering, DevOps en Azure DevOps (TFS)
+* Azure DevOps (AZ-400), developer (AZ-204) en administrator (AZ-104) certificering
+* Praktische ervaring met DevOps-tools
+* Ervaring in het ondersteunen van ontwikkelteams met DevOps practices en -tools
+* Bekwaam in DevOps-tools, CI/CD-pipelines en automatisering
 
-## Working Experience
+## Werkervaring
 
-### DevOps Consultant, Delta Fiber, Schiedam (April 2024 – present)
+### DevOps Consultant, Delta Fiber, Schiedam (April 2024 – heden)
 
-* I support the .NET development teams in all areas of DevOps, with the primary
-  focus on tooling, but also the Process and People components.
-* Help teams with the setup of Azure DevOps and their CI/CD pipelines to deliver
-  compliant software and support the teams to optimally use Azure DevOps as a
-  whole for the creation of software.
-* Create applications in Kubernetes with Argo CD. Help teams containerize their
-  applications to migrate to Kubernetes.
-* Create pipelines and templates for building and deploying applications to the
-  Kubernetes platform.
+* Ik ondersteun de .NET-ontwikkelteams op alle gebieden van DevOps, met de primaire focus op tooling, maar ook op people en proces.
+* Help teams met het opzetten van Azure DevOps en hun CI/CD-pipelines om compliant software te leveren en ondersteun de teams om Azure DevOps als geheel optimaal te gebruiken voor het creëren van software.
+* Creëer applicaties in Kubernetes met Argo CD. Help teams hun applicaties te containerizen voor migratie naar Kubernetes.
+* Maak pipelines en templates voor het bouwen en uitrollen van applicaties naar het Kubernetes-platform.
 
-### DevOps Consultant, Delta-N, Den Haag (October 2019 – March 2024)
+### DevOps Consultant, Delta-N, Den Haag (Oktober 2019 – Maart 2024)
 
-* Working for multiple Delta-N customers for various assignments. In addition, various smaller assignments were carried out:
-* Provide advice on the use of Azure DevOps and DevOps in general.
-* Automate the creation and setup of Projects in Azure DevOps, so we could easily setup new projects with a standardized setup, including the permissions.
-* Explain Azure DevOps and provide support in setting up build and release pipelines.
-* Webinars: including What's new in Azure DevOps, YAML Pipelines.
-* Automation of various activities for internal use.
-* Written blogs for the company website.
+* Werken voor meerdere Delta-N-klanten voor diverse opdrachten. Daarnaast werden verschillende kleinere opdrachten uitgevoerd:
+* Advies geven over het gebruik van Azure DevOps en DevOps in het algemeen.
+* Automatiseren van het aanmaken en inrichten van projecten in Azure DevOps, zodat we eenvoudig nieuwe projecten kunnen opzetten met een gestandaardiseerde inrichting, inclusief de permissies.
+* Uitleg geven over Azure DevOps en ondersteuning bieden bij het opzetten van build- en release-pipelines.
+* Webinars: zoals "What's new in Azure DevOps" en "YAML Pipelines".
+* Automatiseren van diverse activiteiten voor intern gebruik.
+* Blogs geschreven voor de bedrijfswebsite.
 
-### DevOps Consultant, De Nederlandsche Bank, Amsterdam (September 2021 – March 2024)
+### DevOps Consultant, De Nederlandsche Bank, Amsterdam (September 2021 – Maart 2024)
 
-* I support IT teams in all areas of DevOps, with the primary focus on tooling, but also the Process and People components.
-* My focus is on all parts of Azure DevOps and related tools (such as SonarQube, Mend, GitLeaks and Nexus). I help teams with the transition from classic pipelines to multistage YAML pipelines, set up YAML templates with which teams can deliver compliant software and support the teams to optimally use Azure DevOps as a whole for the production of software.
-* I built a custom TypeScript extension for a custom connection with ServiceNow, to create planned changes in ServiceNow from Azure DevOps.
-* Manage the Kubernetes cluster for the DevOps platform (ArgoCD, Nexus, SonarQube, Harbor).
+* Ik ondersteun IT-teams op alle gebieden van DevOps, met de primaire focus op tooling, maar ook op de proces- en menscomponenten.
+* Mijn focus ligt op alle onderdelen van Azure DevOps en gerelateerde tools (zoals SonarQube, Mend, GitLeaks en Nexus). Ik help teams met de transitie van klassieke pipelines naar multistage YAML-pipelines, stel YAML-templates op waarmee teams compliant software kunnen leveren en ondersteun de teams om Azure DevOps als geheel optimaal te gebruiken voor de productie van software.
+* Ik heb een aangepaste TypeScript-extensie gebouwd voor een koppeling met ServiceNow, om geplande wijzigingen in ServiceNow aan te maken vanuit Azure DevOps.
+* Beheer het Kubernetes-cluster voor het DevOps-platform (ArgoCD, Nexus, SonarQube, Harbor).
 
-### DevOps Consultant, DLL Group, Eindhoven (August 2020 – September 2021)
+### DevOps Consultant, DLL Group, Eindhoven (Augustus 2020 – September 2021)
 
-* Responsible for managing Azure DevOps and the on-premises Agents.
-* Automating the CI/CD Pipelines and metrics surrounding their use.
-* Wrote a PowerShell module and set up pipelines to automatically deploy AMT Lion environments. The AMT Framework is used to migrate older mainframe applications to AMT Lion, an object-oriented language.
+* Verantwoordelijk voor het beheer van Azure DevOps en de on-premises agents.
+* Automatiseren van de CI/CD-pipelines en de bijbehorende statistieken.
+* Een PowerShell-module geschreven en pipelines opgezet om AMT Lion-omgevingen automatisch te deployen. Het AMT-framework wordt gebruikt om oudere mainframe-applicaties te migreren naar AMT Lion, een objectgeoriënteerde taal.
 
-### CI/CD Engineer, Het CAK, Den Haag (January 2020 – June 2020)
+### CI/CD Engineer, Het CAK, Den Haag (Januari 2020 – Juni 2020)
 
-* Helped setting up Azure DevOps and automating work using Azure DevOps and PowerShell.
-* I helped various teams setting up and improve Azure pipelines for both .NET and non-.NET based applications, both on Windows and Linux.
-* I have created an extension for Azure DevOps to make some IT Controls visually visible in Azure DevOps.
+* Geholpen bij het opzetten van Azure DevOps en het automatiseren van werkzaamheden met Azure DevOps en PowerShell.
+* Verschillende teams geholpen bij het opzetten en verbeteren van Azure-pipelines voor zowel .NET- als niet-.NET-gebaseerde applicaties, zowel op Windows als Linux.
+* Een extensie voor Azure DevOps gemaakt om enkele IT-controls visueel zichtbaar te maken in Azure DevOps.
 
 ### DevOps Engineer, Vivat, Alkmaar (September 2016 – September 2019)
 
-* Created a custom Azure DevOps Extension for AMT Lion environments. As a result, much less manual work is required to release these environments.
-* Setting up a standardized Continuous Delivery pipeline for various environments (including C#, SQL, SSRS, SSAS, SSIS). This included Azure DevOps, ServiceNow, SonarQube and FitNesse. Thanks to this pipeline, applications can be developed, tested and released faster with better quality.
-* Fulfilled the Product Owner role for the Continuous Delivery pipeline and the Cloud platform.
-* Fulfilled the Scrum Master role for the Cloud Platform team.
-* Migration from TFS 2017 (on-premises) to Visual Studio Team Services (VSTS, now Azure DevOps).
-* Organizing Community of Practice (COP) meetings to share knowledge about Continuous Delivery and DevOps within the organization.
+* Een aangepaste Azure DevOps-extensie gemaakt voor AMT Lion-omgevingen. Hierdoor is veel minder handmatig werk nodig om deze omgevingen vrij te geven.
+* Opzetten van een gestandaardiseerde Continuous Delivery-pipeline voor verschillende omgevingen (inclusief C#, SQL, SSRS, SSAS, SSIS). Dit omvatte Azure DevOps, ServiceNow, SonarQube en FitNesse. Dankzij deze pipeline kunnen applicaties sneller en met betere kwaliteit worden ontwikkeld, getest en vrijgegeven.
+* De rol van Product Owner vervuld voor de Continuous Delivery-pipeline en het cloudplatform.
+* De rol van Scrum Master vervuld voor het Cloud Platform-team.
+* Migratie van TFS 2017 (on-premises) naar Visual Studio Team Services (VSTS, nu Azure DevOps).
+* Organiseren van Community of Practice (COP)-bijeenkomsten om kennis over Continuous Delivery en DevOps binnen de organisatie te delen.
 
-### Tactical Administrator, Vivat, Alkmaar (January 2014 – September 2016)
+### Tactisch Beheerder, Vivat, Alkmaar (Januari 2014 – September 2016)
 
-* Supported and implemented various Team Foundation Server (TFS) migrations: from TFS 2010 to TFS 2017.
-* Implementing the full TFS suite for various applications and teams.
-* Automated the deployment of various applications.
+* Ondersteunen en uitvoeren van diverse Team Foundation Server (TFS)-migraties: van TFS 2010 naar TFS 2017.
+* Implementeren van de volledige TFS-suite voor verschillende applicaties en teams.
+* Het automatiseren van de uitrol van diverse applicaties.
 
-### Operational Administrator, Vivat, Alkmaar (July 2006 – January 2014)
+### Operationeel Beheerder, Vivat, Alkmaar (Juli 2006 – Januari 2014)
 
-* Functional management on Team Foundation Server (TFS).
-* Coordinate TFS migrations.
-* Automated the deployment of various applications.
-* Coordinating the technical release process within Vivat.
-* Carrying out software installations in the DTAP street of various applications.
+* Functioneel beheer van Team Foundation Server (TFS).
+* Coördineren van TFS-migraties.
+* Het automatiseren van de uitrol van diverse applicaties.
+* Coördineren van het technische releaseproces binnen Vivat.
+* Uitvoeren van software-installaties in de DTAP-straat van diverse applicaties.
 
-## Education & Qualifications
+## Opleiding & Kwalificaties
 
 * AZ-104: Microsoft Azure Administrator (Associate)
-* AZ-204 Developing Solutions for Microsoft Azure (Associate)
+* AZ-204: Developing Solutions for Microsoft Azure (Associate)
 * AZ-400: Designing and Implementing Microsoft DevOps Solutions (Expert)
 * IT4IT™ Foundation
 * Scrum Product Owner 1 (PSPO 1)
 * Professional Scrum Master 1 (PSM 1)
-* Bachelor of Business Informatics (July 2006)
+* Bachelor of Business Informatics (Juli 2006)
 
-## Skills
+## Vaardigheden
 
 ### Tools
 

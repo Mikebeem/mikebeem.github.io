@@ -1,12 +1,13 @@
 ---
 # the default layout is 'page'
+title: DevOps as a Service
 icon: fas fa-rocket
 layout: page_toc
 toc: true
 order: 3
+permalink: /posts/devops-as-a-service
+lang: nl
 ---
-
-# DevOps as a Service (DaaS)
 
 ## Flexibele DevOps-oplossingen
 

@@ -4,6 +4,8 @@ title: Op welke versie van Azure DevOps zit ik?
 date: 2024-07-19 14:45 +0100
 categories: [Azure DevOps]
 tags: [Azure DevOps, Features]
+permalink: /posts/what-version-of-Azure-DevOps
+lang: nl
 ---
 
 Als je de [release notes van Azure DevOps](https://aka.ms/azuredevops/releasenotes)

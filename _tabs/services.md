@@ -4,6 +4,8 @@ icon: fas fa-cubes
 layout: page_toc
 toc: true
 order: 1
+permalink: /posts/services
+lang: nl
 ---
 
 <!-- markdownlint-disable MD041 -->

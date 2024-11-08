@@ -11,10 +11,10 @@ layout:
 tabs:
   # format: <filename_without_extension>: <value>
   home: Home
-  categories: Categorieën
+  categories: Categories
   tags: Tags
-  archives: Archief
-  about: Over
+  archives: Archive
+  about: About
 
 # the text displayed in the search bar & search results
 search:
@@ -23,7 +23,7 @@ search:
   no_results: Oeps! Geen resultaten gevonden.
 
 panel:
-  lastmod: Recent gewijzigd
+  lastmod: Recently Updated
   trending_tags: Trending tags
   toc: Inhoud
 

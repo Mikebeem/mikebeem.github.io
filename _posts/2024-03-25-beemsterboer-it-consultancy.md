@@ -4,6 +4,8 @@ title: Beemsterboer IT Consultancy
 date: 2024-03-25 17:15 +0100
 categories: [Beemsterboer IT Consultancy, About]
 tags: [Beemsterboer IT Consultancy]
+permalink: /posts/beemsterboer-it-consultancy
+lang: nl
 pin: false
 ---
 

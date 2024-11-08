@@ -4,6 +4,9 @@ title: De impact van automatisering op teamproductiviteit
 date: 2024-10-11 15:35 +0100
 categories: [DevOps]
 tags: [DevOps, automatisering]
+permalink: /posts/the-impact-of-automation-on-team-productivity
+lang: nl
+
 ---
 
 Bij software ontwikkeling is snelheid alles. Teams die snel kunnen

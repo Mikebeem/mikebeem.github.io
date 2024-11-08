@@ -26,3 +26,6 @@ gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
 gem 'jekyll-compose', group: [:jekyll_plugins]
 
 gem "webrick", "~> 1.8"
+
+# https://hionpu.com/en/posts/github_blog_4#5-if-errors-occur-in-github-build
+gem 'jekyll-polyglot', git: 'https://github.com/hionpu/polyglot', branch: 'master'

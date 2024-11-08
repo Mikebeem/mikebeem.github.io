@@ -3,12 +3,10 @@
 
 icon: fas fa-info-circle
 order: 2
-title: About
-permalink: /posts/about
+title: Mike Beemsterboer - DevOps Consultant
+permalink: /about
 lang: nl
 ---
-
-## Mike Beemsterboer - DevOps Consultant
 
 Als DevOps Consultant richt ik me op de verbetering van de processen en
 samenwerking van IT teams die betrokken zijn bij software ontwikkeling en operatie.

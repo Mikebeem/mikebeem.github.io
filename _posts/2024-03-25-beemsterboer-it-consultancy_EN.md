@@ -10,18 +10,18 @@ lang: en
 
 ---
 
-Starting April 2, 2024, I will begin as a freelance DevOps Consultant.
+Starting April 2, 2024, I will start as a freelance DevOps Consultant.
 
 As a DevOps Consultant, I focus on improving the processes and collaboration of
 IT teams involved in software development and operations. I assist organizations
-in adopting Continuous Delivery, enabling them to deliver higher-quality software
+in adopting Continuous Delivery, enabling them to deliver high quality software
 with greater efficiency while ensuring engineers enjoy their work more.
 
 Continuous Delivery and DevOps go beyond automation and tool configuration. It
-also involves addressing the entire process, from idea inception, software
+also involves addressing the entire process, from idea, software
 development, deployment to production, keeping it running in production,
 continuously gathering feedback, to eventually decommissioning the application.
-But ultimately, it is primarily a mindset—constantly striving to improve as an
+But ultimately, it is primarily a mindset, constantly striving to improve as an
 individual, team, and organization, continuously learning and continuously
 improving.
 

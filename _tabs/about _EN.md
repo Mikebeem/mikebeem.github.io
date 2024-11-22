@@ -3,7 +3,7 @@
 
 icon: fas fa-info-circle
 order: 2
-title: Mike Beemsterboer - DevOps Consultant
+title: Beemsterboer IT Consultancy
 permalink: /about/
 lang: en
 ---
@@ -30,6 +30,8 @@ Bank (DNB), and currently I am carrying out an assignment at Delta Fiber Nederla
 Are you also looking for someone to help your organization with this?
 [Feel free to contact me](mailto:info@mikebeemsterboer.nl).
 
+Company Registration Number: 92499589
+VAT ID: NL004960226B58
 
 ![Azure Developer](/assets/img/certifications/azure-developer-associate-600x600.png){: w="150" .left}
 ![Azure Administrator](/assets/img/certifications/azure-administrator-associate-600x600.png){: w="150" .left}

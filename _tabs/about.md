@@ -3,7 +3,7 @@
 
 icon: fas fa-info-circle
 order: 2
-title: Mike Beemsterboer - DevOps Consultant
+title: Beemsterboer IT Consultancy
 permalink: /about/
 lang: nl
 ---
@@ -32,6 +32,9 @@ en op dit moment voer ik een opdracht uit bij Delta Fiber Nederland.
 
 Zijn jullie voor jullie organisatie ook op zoek naar iemand die jullie hierbij
 kan helpen? [Neem gerust contact met me op](mailto:info@mikebeemsterboer.nl).
+
+KvK-nummer: 92499589
+BTW-nummer: NL004960226B58
 
 ![Azure Developer](/assets/img/certifications/azure-developer-associate-600x600.png){: w="150" .left}
 ![Azure Administrator](/assets/img/certifications/azure-administrator-associate-600x600.png){: w="150" .left}

@@ -9,8 +9,6 @@ lang: nl
 
 ---
 
-🚀 Hoe CI/CD Pipelines jouw organisatie sneller saten schalen
-
 ## 🖥️ Snel bouwen, maar met kwaliteit  
 Softwarebedrijven bouwen sneller dan ooit, maar hoe zorg je dat kwaliteit niet  
 achterblijft?  

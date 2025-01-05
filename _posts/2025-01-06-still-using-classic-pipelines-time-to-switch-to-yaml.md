@@ -4,7 +4,7 @@ title: 🧪 Gebruik je nog Classic Pipelines? Tijd voor YAML!
 date: 2025-01-05 15:53 +0100
 categories: [DevOps]
 tags: [DevOps, Automation, Pipeline]
-permalink: /posts/hstill-using-classic-pipelines-time-to-switch-to-yaml
+permalink: /posts/still-using-classic-pipelines-time-to-switch-to-yaml
 lang: nl
 
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 🚀 Hoe CI/CD Pipelines jouw organisatie sneller saten schalen
+title: 🚀 Hoe CI/CD Pipelines jouw organisatie sneller laten schalen
 date: 2025-01-04 15:35 +0100
 categories: [DevOps]
 tags: [DevOps, Automation, Practice]

@@ -58,6 +58,12 @@ Maar inmiddels gebruik ik YAML dagelijks. Niet alleen in Azure DevOps,
 maar ook in GitHub Actions, GitLab, Docker en Kubernetes. Ik zou nu niet
 meer terug willen naar Classic Pipelines.
 
+En dat is voor mij meteen ook nog een reden om over te stappen naar YAML.
+Bij de meeste teams zijn YAML pipelines inmiddels de standaard. Als een
+Classic Pipeline issues heeft, kost het me meer moeite om te achterhalen
+at die fout kan zijn.
+Het gevolg is dan vaak dat ik de pipeline meteen ombouw naar YAML.
+
 ## 🌟 Wat zijn de voordelen van YAML Pipelines?
 
 Hier zijn de belangrijkste voordelen van YAML Pipelines:
@@ -134,7 +140,7 @@ Hier zijn een aantal stappen die je kunt volgen:
  handwerk schelen en kan je zeker een kickstart geven. Controleer altijd
  de gegenereerde YAML om er zeker van te zijn dat alles goed is omgezet.
 
-## 🔧 In een volgende blog: dieper in op migratiestappen
+## 🔧 In een volgende blog ga ik dieper in op de migratiestappen
 
 In een volgende blog zal ik deze stappen verder uitwerken met concrete
 voorbeelden en tips om de migratie naar YAML Pipelines soepeler te laten

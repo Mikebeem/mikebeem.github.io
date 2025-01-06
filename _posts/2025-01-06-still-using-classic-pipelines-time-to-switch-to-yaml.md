@@ -58,6 +58,12 @@ But now, I use YAML daily — not just in Azure DevOps, but also in GitHub
 Actions, GitLab, Docker, and Kubernetes. I wouldn't go back to Classic
 Pipelines.
 
+And that’s yet another reason for me to switch to YAML. For most teams,
+YAML Pipelines have already become the standard. When I encounter issues with a
+Classic Pipeline, it often takes me more time to figure out what might be
+causing the error.
+As a result, I usually end up rewriting the pipeline to YAML right away.
+
 ## 🌟 What are the benefits of YAML Pipelines?
 
 Here are the key benefits of switching to YAML Pipelines:

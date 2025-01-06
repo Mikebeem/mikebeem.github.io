@@ -6,101 +6,100 @@ layout: page_toc
 toc: true
 order: 3
 permalink: /devops-as-a-service/
-lang: nl
+lang: en
 ---
 
-## Flexibele DevOps-oplossingen
+## Flexible DevOps Solutions
 
-Wil je DevOps practices implementeren zonder de kosten van een fulltime
-engineer? Met **DevOps as a Service** (DaaS) krijg je toegang
-tot een DevOps-expert op abonnementsbasis. Hierdoor profiteer je van expertise en
-ondersteuning op maat, zonder de verplichting van een fulltime aanstelling.
+Do you want to implement DevOps practices without the cost of a full-time
+engineer? With **DevOps as a Service** (DaaS), you gain access to a DevOps
+expert on a subscription basis. This way, you benefit from tailored expertise
+and support without the commitment of a full-time hire.
 
-## Wat is DevOps as a Service?
+## What is DevOps as a Service?
 
-DevOps as a Service is een complete oplossing voor jouw softwareontwikkelingsproces.
-Als **DevOps Consultant** help ik je om je DevOps-platform in te richten,
-te optimaliseren en te onderhouden. Zo kun jij je concentreren op het
-bouwen van software, terwijl ik zorg dat je processen soepel verlopen.
+DevOps as a Service is a complete solution for your software development
+process. As a **DevOps Consultant**, I help you set up, optimize, and maintain
+your DevOps platform. This allows you to focus on building software, while I
+ensure your processes run smoothly.
 
-## Voor wie is DevOps as a Service geschikt?
+## Who is DevOps as a Service for?
 
-Deze dienst is ideaal voor:
+This service is ideal for:
 
-- **Kleine organisaties** die hun softwareontwikkeling willen verbeteren.
-- **Startups** die willen opschalen zonder de kosten van een volledig DevOps-team.
-- **Ontwikkelteams** die hulp nodig hebben bij de implementatie van tools zoals
-  Azure DevOps, CI/CD pipelines, en geautomatiseerde test- en deployment processen.
-- Bedrijven die hun **ontwikkel- en releasecycli willen versnellen** door efficiënte
-  DevOps-praktijken toe te passen.
+- **Small organizations** looking to improve their software development.
+- **Startups** wanting to scale without the cost of a full DevOps team.
+- **Development teams** that need help implementing tools like Azure DevOps,
+  CI/CD pipelines, and automated testing and deployment processes.
+- Companies aiming to **accelerate development and release cycles** by
+  applying efficient DevOps practices.
 
-## Abonnementsvormen
+## Subscription Plans
 
-DevOps as a Service is beschikbaar in verschillende abonnementsvormen, zodat je
-altijd een optie kunt kiezen die past bij jouw organisatie. Daarnaast kunnen we
-het abonnement volledig op maat samenstellen tijdens de kennismaking.
+DevOps as a Service is available in various subscription plans so you can
+choose the option that fits your organization. We can also fully customize the
+subscription during the initial consultation.
 
-1. **Basis**  
-   Voor kleine teams die net beginnen met DevOps. Inclusief:
-   - Setup en onderhoud van Azure DevOps.
-   - Configuratie van CI/CD-pipelines voor één project.
-   - Maandelijks monitoring en rapportage.
-   - 4 uur support per maand.
+1. **Basic**  
+   For small teams starting with DevOps. Includes:
+   - Setup and maintenance of Azure DevOps.
+   - Configuration of CI/CD pipelines for one project.
+   - Monthly monitoring and reporting.
+   - 4 hours of support per month.
 
-2. **Professioneel**  
-   Voor groeiende organisaties met meerdere projecten. Inclusief:
-   - Alles uit het Basis-abonnement.
-   - CI/CD-pipelines voor meerdere projecten.
-   - Automatisering van workflows en security checks.
-   - 8 uur support per maand.
+2. **Professional**  
+   For growing organizations with multiple projects. Includes:
+   - Everything from the Basic plan.
+   - CI/CD pipelines for multiple projects.
+   - Workflow automation and security checks.
+   - 8 hours of support per month.
 
 3. **Premium**  
-   Voor bedrijven die hun volledige DevOps-platform willen optimaliseren. Inclusief:
-   - Alles uit het Professioneel-abonnement.
-   - Volledige platformoptimalisatie en automatisering.
-   - Integratie van tools zoals SonarCloud en GitLeaks.
-   - 16 uur support per maand.
+   For companies looking to optimize their entire DevOps platform. Includes:
+   - Everything from the Professional plan.
+   - Full platform optimization and automation.
+   - Integration of tools like SonarCloud and GitLeaks.
+   - 16 hours of support per month.
 
-## Wat kun je verwachten van mijn aanpak?
+## What can you expect from my approach?
 
-- **Azure DevOps Setup & Beheer**  
-  Ik help je bij het opzetten en onderhouden van jouw Azure DevOps-omgeving. Van
-  het configureren van projecten tot het inrichten van release- en
-  CI/CD-pipelines, je bent verzekerd van een stabiel en schaalbaar platform.
+- **Azure DevOps Setup & Management**  
+  I help you set up and maintain your Azure DevOps environment. From configuring
+  projects to setting up release and CI/CD pipelines, you’ll have a stable and
+  scalable platform.
 
-- **CI/CD-pipelines en Automatisering**  
-  Door je ontwikkel- en releaseprocessen te automatiseren, bespaar je tijd en voorkom
-  je fouten. Ik ontwerp en implementeer CI/CD-pipelines die aansluiten bij jouw
-  behoeften.
+- **CI/CD Pipelines and Automation**  
+  By automating your development and release processes, you save time and avoid
+  errors. I design and implement CI/CD pipelines that meet your needs.
 
-- **Monitoring & Onderhoud**  
-  Jouw DevOps-platform vereist regelmatig onderhoud en monitoring. Ik neem deze taken
-  op mij, zodat jij je kunt richten op je core business.
+- **Monitoring & Maintenance**  
+  Your DevOps platform requires regular maintenance and monitoring. I take care
+  of these tasks so you can focus on your core business.
 
-- **Beveiliging & Compliance**  
-  Met tools zoals SonarCloud en GitLeaks zorg ik ervoor dat je voldoet aan de hoogste
-  beveiligingsstandaarden.
+- **Security & Compliance**  
+  With tools like SonarCloud and GitLeaks, I ensure that you meet the highest
+  security standards.
 
-- **Continu Verbetering**  
-  DevOps is een continu proces van optimalisatie. Samen identificeren we
-  knelpunten en voeren we verbeteringen door, zodat je organisatie blijft groeien.
+- **Continuous Improvement**  
+  DevOps is an ongoing process of optimization. Together, we identify bottlenecks
+  and implement improvements to help your organization grow.
 
-## Hoe werkt het?
+## How does it work?
 
-1. **Kennismakingsgesprek**  
-   We beginnen met een gesprek om je situatie en behoeften in kaart te brengen. Samen
-   kijken we naar de knelpunten en verbeterpunten in jouw DevOps-omgeving.
+1. **Initial Consultation**  
+   We begin with a meeting to assess your situation and needs. We’ll look at the
+   bottlenecks and areas for improvement in your DevOps environment.
 
-2. **Strategie & Implementatie**  
-   Op basis van jouw eisen stel ik een plan op om je DevOps-processen te optimaliseren.
-   Dit omvat het opzetten van tools, automatiseren van workflows, en integreren van
-   beveiligings- en kwaliteitscontroles.
+2. **Strategy & Implementation**  
+   Based on your requirements, I create a plan to optimize your DevOps processes.
+   This includes setting up tools, automating workflows, and integrating security
+   and quality checks.
 
-3. **Ondersteuning & Groei**  
-   Na de implementatie blijf ik je ondersteunen. Je ontvangt regelmatige updates,
-   rapportages en aanbevelingen voor verbeteringen.
+3. **Support & Growth**  
+   After implementation, I continue to support you. You’ll receive regular updates,
+   reports, and recommendations for improvements.
 
-## Interesse?
+## Interested?
 
-Wil je meer weten over hoe DevOps as a Service jouw organisatie kan helpen? [Neem
-contact op voor een vrijblijvend gesprek](mailto:info@mikebeemsterboer.nl).
+Want to learn more about how DevOps as a Service can help your organization?
+[Contact me for a no-obligation consultation](mailto:info@mikebeemsterboer.nl).

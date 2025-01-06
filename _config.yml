@@ -3,7 +3,7 @@ plugins:
   - jekyll-polyglot
 
 languages: ['nl', 'en']
-default_lang: 'nl'
+default_lang: 'en'
 exclude_from_localization: ['javascript', 'images', 'css', 'sitemap.xml', '_includes/sidebar.html']
 parallel_localization: false
 

@@ -1,97 +1,94 @@
 ---
 # the default layout is 'page'
+title: Services
 icon: fas fa-cubes
 layout: page_toc
 toc: true
 order: 1
 permalink: /services/
-lang: nl
+lang: en
 ---
 
 <!-- markdownlint-disable MD041 -->
-Met mijn ervaring als DevOps Consultant help ik graag verschillende organisaties
+With my experience as a DevOps Consultant, I enjoy helping various organizations
 <!-- markdownlint-enable MD041 -->
-in het verbeteren van de DevOps werkwijze en practices. Hieronder staan enkele
-voorbeelden van opdrachten waarmee ik jouw organisatie van dienst kan zijn.
+improve their DevOps practices and workflows. Below are some examples of
+projects where I can assist your organization.
 
-Als je interesse hebt of benieuwd bent naar de mogelijkheden,
-[neem gerust contact met me op](mailto:info@mikebeemsterboer.nl).
+If you're interested or curious about the possibilities, 
+[feel free to contact me](mailto:info@mikebeemsterboer.nl).
 
 ## CI/CD Pipeline Setup
 
-Als jouw organisatie al gebruik maakt van Azure DevOps, GitHub of vergelijkbare
-tooling, kan ik helpen bij het opzetten of verbeteren van jullie pipelines.
+If your organization is already using Azure DevOps, GitHub, or similar tools,
+I can help set up or improve your pipelines.
 
 ## Infrastructure as Code (IaC)
 
-Opzetten en schrijven van Azure Bicep templates, waarmee ik kan helpen om
-resources op een geautomatiseerde en consistente manier uit te rollen in Azure.
+I can help set up and write Azure Bicep templates, enabling you to roll out
+resources in Azure in an automated and consistent manner.
 
-## Automatisering (Builds, Deployments, repetitieve taken)
+## Automation (Builds, Deployments, Repetitive Tasks)
 
-Als jouw organisatie nog "met de hand" builds of deployments uitvoert, kan ik
-helpen bij het automatiseren hiervan. Dit geldt ook voor andere repetitieve taken
-die op dit moment nog handmatig uitgevoerd worden.
+If your organization is still performing builds or deployments manually, I
+can assist in automating these processes. This also applies to other
+repetitive tasks currently done manually.
 
 ## Azure DevOps Audit
 
-Ik kan een check doen op jullie Azure DevOps omgeving. Aan de hand van deze check
-kan ik jullie van advies voorzien om Azure DevOps nog effectiever in te zetten.
-Aan de hand van dit advies kan ik uiteraard ook helpen bij het implementeren van
-de verbeterpunten.
+I can conduct a check of your Azure DevOps environment. Based on this review,
+I can provide advice on how to use Azure DevOps more effectively. I can also
+help implement the recommended improvements.
 
 ## Kickstart DevOps
 
-Met kickstart DevOps help ik jullie om een start te maken in jullie DevOps transitie.
-Uiteraard stemmen we jullie wensen af, maar voor een Kickstart DevOps kun je
-denken aan de volgende onderdelen:
+With Kickstart DevOps, I assist your team in getting started with your DevOps
+transition. We will align your needs, but a Kickstart DevOps typically includes
+the following:
 
-- Assessment van de huidige situatie
-- Ontwikkelen van een verbeterplan
-- Setup van basis CI/CD pipelines en herbruikbare templates
-- Training voor het team
+- Assessment of the current situation
+- Development of an improvement plan
+- Setup of basic CI/CD pipelines and reusable templates
+- Training for the team
 
 ## Continuous Improvement
 
-Het Continuous Improvement pakket kan een vervolg zijn op de DevOps kickstart.
-Ik zal een inventarisatie maken van de huidige inrichting van de CI/CD pipelines.
-Vervolgens ga ik periodiek op zoek naar de bottlenecks in jullie pipelines en zal
-de pipelines hierop aanpassen.
+The Continuous Improvement package can be a follow-up to the DevOps Kickstart.
+I will assess the current setup of your CI/CD pipelines and periodically look
+for bottlenecks. I will then adjust the pipelines accordingly.
 
-Daarnaast ben ik beschikbaar voor advies en ondersteuning om eventuele ad-hoc
-vragen of problemen voor jullie op te pakken.
+Additionally, I am available for advice and support to handle any ad-hoc issues
+or questions.
 
-- Maandelijkse check-ins en optimalisatie
-- Performance monitoring en aanpassing van CI/CD pipelines
-- On-demand advies en ondersteuning
+- Monthly check-ins and optimizations
+- Performance monitoring and adjustments of CI/CD pipelines
+- On-demand advice and support
 
 ## Advanced DevOps Transformation
 
-Met Advanced DevOps transformation ga ik dieper in op jullie omgeving.
-Enkele onderdelen die in dit pakket kunnen zitten:
+With Advanced DevOps Transformation, I dive deeper into your environment.
+Some components that may be included in this package are:
 
-- In-depth assessment en roadmap creatie
-- Implementatie van geavanceerde DevOps tools en practices
-- Integratie van infrastructuur als code (IaC) en automatisering
-- Uitgebreide training en workshops voor het team
+- In-depth assessment and roadmap creation
+- Implementation of advanced DevOps tools and practices
+- Integration of Infrastructure as Code (IaC) and automation
+- Extensive training and workshops for the team
 
-## DevOps as a service
+## DevOps as a Service
 
-Voor kleinere organisaties die mogelijk niet de middelen hebben voor een
-fulltime DevOps engineer, bied ik mijn diensten aan als parttime DevOps platform
-engineer. Deze flexibele aanpak stelt organisaties in staat om te profiteren van
-deskundige begeleiding zonder de verplichting van een fulltime inhuur. Ik kan
-helpen bij het opzetten en onderhouden van een DevOps platform dat aansluit
-bij jullie specifieke behoeften en doelen.
+For smaller organizations that may not have the resources for a full-time
+DevOps engineer, I offer my services as a part-time DevOps platform engineer.
+This flexible approach allows organizations to benefit from expert guidance
+without the commitment of a full-time hire. I can help set up and maintain a
+DevOps platform tailored to your specific needs and goals.
 
-Voor vragen, [neem contact met me op](mailto:info@mikebeemsterboer.nl).
+For questions, [contact me](mailto:info@mikebeemsterboer.nl).
 
 ## Training
 
-Naast de support op DevOps tools kan ik jullie ook voorzien van training. Dit
-kan op het geboed van DevOps zelf, of specifiek op bepaalde tools. Denk hierbij
-aan Azure DevOps trainingen, niet alleen voor het beheren van Azure DevOps, maar
-ook voor gebruikers. Voor vrijwel alle onderwerpen rondom DevOps en Azure DevOps
-kan ik een training op maat maken.
+In addition to supporting DevOps tools, I also offer training. This can be
+on DevOps itself or on specific tools. For example, I provide Azure DevOps
+training, not just for managing Azure DevOps, but also for users. I can create
+custom training for almost any topic related to DevOps and Azure DevOps.
 
-Voor interesse, [neem contact met me op](mailto:info@mikebeemsterboer.nl).
+For inquiries, [contact me](mailto:info@mikebeemsterboer.nl).

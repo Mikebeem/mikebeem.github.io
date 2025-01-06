@@ -5,36 +5,33 @@ icon: fas fa-info-circle
 order: 2
 title: Beemsterboer IT Consultancy
 permalink: /about/
-lang: nl
+lang: en
 ---
 
-Als DevOps Consultant richt ik me op de verbetering van de processen en
-samenwerking van IT teams die betrokken zijn bij software ontwikkeling en operatie.
-Ik help organisaties om Continuous Delivery toe te passen. Om daarmee software
-te leveren van een betere kwaliteit, met meer efficiëntie en waarbij de
-engineers dit met meer plezier doen.
+As a DevOps Consultant, I focus on improving the processes and collaboration of
+IT teams involved in software development and operations. I help organizations
+apply Continuous Delivery to deliver software of better quality, with greater
+efficiency, and in a way that engineers enjoy more.
 
-[Mijn CV is hier te vinden](/about/resume).
+[My resume can be found here](/about/resume).
 
-Continuous Delivery en DevOps gaan verder dan alleen automatisering en het
-inrichten van tools. Het gaat ook om het aanpakken van het totale proces van
-idee, naar onder andere het ontwikkelen van software, het uitrollen naar productie,
-het draaiende houden in productie, het continu ophalen van feedback tot
-uiteindelijk het opruimen van de applicatie.
-Maar uiteindelijk is het vooral een mindset. Om als persoon, als team en als organisatie
-alles steeds een stukje beter te willen doen. Om continu te leren en continu te
-blijven verbeteren.
+Continuous Delivery and DevOps go beyond just automation and setting up tools.
+It’s about addressing the entire process, from the idea, to developing software,
+deploying it to production, maintaining it in production, continuously gathering
+feedback, and ultimately decommissioning the application. But in the end, it's
+mostly about mindset: continuously wanting to improve, as an individual, as a
+team, and as an organization. To keep learning and always striving to improve.
 
-Ik heb in de afgelopen jaren bij verschillende organisaties mogen werken in deze
-rol. Eerst bij Vivat (nu Athora), een grote Nederlandse verzekeraar, daarna
-namens Delta-N bij onder andere het CAK, DLL Group en bij De Nederlansche Bank (DNB)
-en op dit moment voer ik een opdracht uit bij Delta Fiber Nederland.
+Over the past years, I have worked in this role for several organizations.
+First at Vivat (now Athora), a large Dutch insurance company, then on behalf of
+Delta-N at various organizations, including CAK, DLL Group, and De Nederlandsche
+Bank (DNB), and currently I am carrying out an assignment at Delta Fiber Nederland.
 
-Zijn jullie voor jullie organisatie ook op zoek naar iemand die jullie hierbij
-kan helpen? [Neem gerust contact met me op](mailto:info@mikebeemsterboer.nl).
+Are you also looking for someone to help your organization with this?
+[Feel free to contact me](mailto:info@mikebeemsterboer.nl).
 
-KvK-nummer: 92499589\
-BTW-nummer: NL004960226B58
+Company Registration Number: 92499589\
+VAT ID: NL004960226B58
 
 ![Azure Developer](/assets/img/certifications/azure-developer-associate-600x600.png){: w="150" .left}
 ![Azure Administrator](/assets/img/certifications/azure-administrator-associate-600x600.png){: w="150" .left}

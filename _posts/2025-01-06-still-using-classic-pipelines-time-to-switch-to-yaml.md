@@ -1,158 +1,149 @@
 ---
 layout: post
-title: 🧪 Gebruik je nog Classic Pipelines? Tijd voor YAML!
+title: 🧪 Still using Classic Pipelines? Time to switch to YAML!
 date: 2025-01-05 15:53 +0100
 categories: [DevOps]
 tags: [DevOps, Automation, Pipeline]
 permalink: /posts/still-using-classic-pipelines-time-to-switch-to-yaml
-lang: nl
+lang: en
 
 ---
 
-Hoewel Microsoft YAML Pipelines al geruime tijd als standaard promoot in
-Azure DevOps, kom ik verrassend vaak nog Classic Pipelines tegen. Ook al
-is YAML bij veel teams inmiddels wel de standaard, dan draait soms
-toch die ene release pipeline nog als Classic pipeline. Meestal
-zijn deze jaren geleden opgezet en werken ze “prima”. Maar daar zit precies
-het probleem: veel teams blijven vasthouden aan Classic Pipelines
-simpelweg omdat ze nog werken.
+Even though Microsoft has been promoting YAML Pipelines as the standard in
+Azure DevOps for quite some time, I'm still surprised to see Classic
+Pipelines being used. While most teams have adopted YAML for new pipelines,
+there's often *that one release pipeline* still running as a Classic Pipeline.
 
-Maar technologie staat nooit stil. Classic Pipelines worden inmiddels
-(zoals de naam al zegt) als verouderd beschouwd. YAML Pipelines bieden
-meer flexibiliteit, herbruikbaarheid, en betere integratiemogelijkheden
-met moderne DevOps-practices.
+These pipelines were often set up years ago and “work just fine.” And that's
+exactly the issue: many teams stick with Classic Pipelines simply because
+they still work.
 
-## 🤔 Waarom gebruiken sommige bedrijven nog steeds Classic Pipelines?
+But technology doesn't stand still. As the name suggests, **Classic
+Pipelines are now considered outdated**. YAML Pipelines offer more
+flexibility, better reusability, and superior integration with modern DevOps
+practices.
 
-Bij de meeste klanten is YAML ook echt wel de standaard waarin nieuwe
-pipelines worden gemaakt, maar toch kom ik ook nog Classic Pipelines tegen
-die regelmatig draaien. Dit heeft vaak drie redenen:
+## 🤔 Why are some companies still using Classic Pipelines?
 
-1. **De pipeline werkt nog steeds naar behoren.**
- _“Als het werkt, waarom zouden we het veranderen?”_ Dit is een
- veelgehoorde reactie bij teams die pipelines inrichten en daar
- vervolgens jaren niet meer naar omkijken.
+At most companies, YAML is the default for new pipelines. However, I still
+come across Classic Pipelines that are actively being used. There are
+usually three main reasons for this:
 
-2. **Het team is gewend om met Classic Pipelines te werken.**
- Developers en teams willen zich het liefst focussen op het bouwen van
- features. Het omschrijven van een bestaande Classic Pipeline naar YAML
- kost tijd en energie. Veel teams blijven liever in hun vertrouwde
- omgeving werken.
+1. **The pipeline still works.**
+ _“If it works, why change it?”_ This is a common mindset among teams who
+ set up pipelines once and never look back.
 
-3. **Het team denkt dat YAML Pipelines niet alles ondersteunen.**
- Een veelgehoord misverstand is dat goedkeuringen of handmatige
- interventies alleen in Classic Pipelines mogelijk zijn. Dit klopt niet.
- YAML biedt uitgebreide mogelijkheden om approvals en manual
- interventions in je workflows in te bouwen. Sterker nog, dit werkt in
- YAML vaak zelfs flexibeler.
+2. **The team is used to Classic Pipelines.**
+ Developers prefer to focus on building features. Rewriting a Classic
+ Pipeline into YAML takes time and effort, which many teams prefer to
+ spend on new features.
 
-## 🚀 Zelf overstappen naar YAML? Het kostte mij ook tijd om te wennen
+3. **There's a misconception that YAML doesn't support everything.**
+ A common misunderstanding is that approvals or manual interventions are
+ only possible in Classic Pipelines. This is not true. YAML provides
+ comprehensive options for approvals and manual interventions — often
+ with more flexibility than Classic Pipelines.
 
-Zelf weet ik als geen ander dat overstappen naar YAML Pipelines niet
-altijd vanzelf gaat. Toen ik ermee begon, moest ik echt wennen aan het
-schrijven van pipelines in code. De visuele interface van Classic voelde
-vertrouwd en YAML leek in het begin ingewikkeld. Even snel een pipeline
-bij elkaar klikken deed ik dan ook nog lang in de Classic interface.
+## 🚀 Switching to YAML? It took me some time to adjust too
 
-Maar inmiddels gebruik ik YAML dagelijks. Niet alleen in Azure DevOps,
-maar ook in GitHub Actions, GitLab, Docker en Kubernetes. Ik zou nu niet
-meer terug willen naar Classic Pipelines.
+I know firsthand that switching to YAML Pipelines can feel like a big
+change. When I first started using YAML, I had to get used to writing
+pipelines as code. The visual interface of Classic Pipelines felt familiar,
+and YAML seemed complicated at first.
 
-## 🌟 Wat zijn de voordelen van YAML Pipelines?
+For a long time, I found myself quickly creating pipelines in the Classic
+UI because it was easier.
 
-Hier zijn de belangrijkste voordelen van YAML Pipelines:
+But now, I use YAML daily — not just in Azure DevOps, but also in GitHub
+Actions, GitLab, Docker, and Kubernetes. I wouldn't go back to Classic
+Pipelines.
 
-### 🗂️ 1. Pipelines in versiebeheer
+## 🌟 What are the benefits of YAML Pipelines?
 
-YAML Pipelines worden opgeslagen in je repository, samen met je code. Dit
-betekent dat je wijzigingen in pipelines kunt tracken, reviewen, testen en
-beheren via pull requests. Hierdoor krijg je veel meer controle over je
-CI/CD-processen.
+Here are the key benefits of switching to YAML Pipelines:
 
-Met Classic Pipelines wordt ook wel een versiegeschiedenis bijgehouden,
-maar persoonlijk vind ik die geschiedenis een stuk lastiger om te
-vergelijken. Het is moeilijk te herleiden wanneer en waarom een bepaalde
-wijziging is gedaan.
+### 🗂️ 1. Pipelines in Version Control
 
-### 🔄 2. Herbruikbare templates
+YAML Pipelines are stored in your repository alongside your code. This
+means you can track, review, test, and manage pipeline changes through pull
+requests, giving you more control over your CI/CD processes.
 
-Met YAML kun je herbruikbare templates maken die je in meerdere projecten
-kunt inzetten. Dit maakt het opzetten van nieuwe pipelines veel
-efficiënter. Templates zorgen ervoor dat je standaarden kunt afdwingen en
-dat teams minder tijd kwijt zijn aan het handmatig configureren van
-pipelines.
+While Classic Pipelines also offer a version history, it's much harder to
+track and compare changes. It's often difficult to figure out when or why a
+particular change was made.
 
-Je kunt het vergelijken met het gebruik van Task Groups in Classic
-Pipelines, maar dan uitgebreider en over projecten heen. Zo kun je in
-templates in YAML op verschillende niveaus maken, voor taken, voor jobs,
-stages of hele pipelines.
+### 🔄 2. Reusable templates
 
-### ⚙️ 3. Automatisering van complexe workflows
+With YAML, you can create reusable templates that can be shared across
+multiple projects. This makes it much easier to set up new pipelines.
+Templates ensure consistency and save teams time by reducing manual
+pipeline configuration.
 
-YAML biedt ondersteuning voor complexe workflows met conditions, stages,
-en multi-job pipelines. Deze workflows kun je volledig automatiseren,
-zonder dat je afhankelijk bent van de GUI.
+It's similar to using Task Groups in Classic Pipelines — but more powerful
+and scalable across projects. Templates can be created at various levels,
+such as for tasks, jobs, stages, or entire pipelines.
 
-Bijvoorbeeld: je kunt eenvoudig verschillende tests en builds parallel
-laten draaien, afhankelijk van de branch of omgeving waarin je werkt.
+### ⚙️ 3. Automating complex workflows
 
-### 🔐 4. Betere integratie met moderne DevOps-practices
+YAML supports complex workflows with conditions, stages, and multi-job
+pipelines. These workflows can be fully automated without relying on the
+UI.
 
-Binnen DevOps wordt vaak gesproken over Infrastructure as Code (IaC),
-Continuous Integration (CI) en Continuous Deployment (CD). YAML Pipelines
-passen perfect in deze filosofie, omdat je hiermee ook je "Pipeline as
-Code" kunt opslaan.
+For example, you can easily run different tests and builds in parallel,
+depending on the branch or environment you're working in.
 
-## 📋 Hoe stap je over van Classic Pipelines naar YAML?
+### 🔐 4. Better integration with modern DevOps practices
 
-Hier zijn een aantal stappen die je kunt volgen:
+In DevOps, we talk a lot about Infrastructure as Code (IaC), Continuous
+Integration (CI), and Continuous Deployment (CD). YAML Pipelines fit
+perfectly into this philosophy by enabling **Pipeline as Code**.
 
-1. **Begin met nieuwe projecten.**
- Richt nieuwe pipelines direct in als YAML Pipelines. Dit voorkomt dat
- je later alles moet migreren. Dit zie ik overigens bij de meeste
- organisaties al gebeuren.
+## 📋 How to migrate from Classic Pipelines to YAML
 
-2. **Schakel het aanmaken van Classic Pipelines uit.**
- Azure DevOps biedt de mogelijkheid om het aanmaken van Classic
- Pipelines op project- of organisatieniveau uit te schakelen. Hiermee
- dwing je stap 1 af, terwijl bestaande Classic Pipelines nog bruikbaar
- blijven. Je hoeft niet te "dweilen met de kraan open".
+Here are a few steps to help you migrate from Classic Pipelines to YAML:
 
-3. **Converteer bestaande Classic Pipelines stap voor stap.**
- Begin met de eenvoudigste pipelines en bouw van daaruit verder. Zo kun
- je snel succes boeken en vertrouwen opbouwen binnen het team.
+1. **Start with new projects.**
+ For new pipelines, use YAML from the start to avoid future migrations. I
+ already see this happening at most organizations.
 
-4. **Maak gebruik van templates.**
- Zodra je een pipeline hebt omgezet naar YAML die je mogelijk vaker
- kunt gebruiken, maak hier een template
- van zodat andere projecten deze eenvoudig kunnen hergebruiken.
+2. **Disable the creation of new Classic Pipelines.**
+ Azure DevOps allows you to disable the creation of Classic Pipelines at
+ the project or organization level. This prevents teams from creating new
+ Classic Pipelines while still allowing existing ones to run.
+ _(No more pouring water into a leaky bucket!)_
 
-5. **Gebruik tools zoals Yamlizr.**
+3. **Migrate existing Classic Pipelines step by step.**
+ Start with the simplest pipelines and build from there. This way, you
+ can quickly achieve success and build confidence within the team.
+
+4. **Use templates.**
+ If you convert a pipeline to YAML that you might reuse, turn it into a
+ template for other projects to use.
+
+5. **Leverage tools like Yamlizr.**
  [**Yamlizr**](https://github.com/f2calv/yamlizr)
- is een handige tool om je Classic Pipelines automatisch om te
- zetten naar YAML. Het is geen magische oplossing, maar het kan veel
- handwerk schelen en kan je zeker een kickstart geven. Controleer altijd
- de gegenereerde YAML om er zeker van te zijn dat alles goed is omgezet.
+ is a useful tool for converting Classic Pipelines to YAML automatically.
+ While it's not a magic solution, it can save a lot of manual work and
+ give you a solid starting point. Always review the generated YAML to
+ ensure everything is correctly converted.
 
-## 🔧 In een volgende blog: dieper in op migratiestappen
+## 🔧 Next blog: A deeper dive into migration steps
 
-In een volgende blog zal ik deze stappen verder uitwerken met concrete
-voorbeelden en tips om de migratie naar YAML Pipelines soepeler te laten
-verlopen.
+In my next blog, Ill provide more detailed examples and tips to make your
+migration to YAML Pipelines smoother.
 
-## 💡 Wil je hulp bij het optimaliseren van jouw CI/CD Pipelines?
+## 💡 Need help optimizing your CI/CD Pipelines?
 
-De overstap van Classic Pipelines naar YAML Pipelines is een investering
-die je pipelines toekomstbestendig maakt. Maar ik snap dat het niet
-altijd eenvoudig is om hier tijd voor vrij te maken.
+Migrating from Classic Pipelines to YAML Pipelines is an investment that
+will future-proof your pipelines. But I understand it's not always easy to
+free up time for this.
 
-Wil je sparren over hoe je dit kunt aanpakken? Of zoek je iemand die jouw
-team hierbij kan ondersteunen?
+Looking for someone to help guide you through the process?
 
-### 🎯 Ik kan onder andere helpen met:
+### 🎯 Here's how I can help
 
-- Migreren van Classic naar YAML Pipelines
-- Inrichten van herbruikbare templates
-- Optimaliseren van bestaande YAML Pipelines
+- Migrating Classic Pipelines to YAML
+- Setting up reusable templates
+- Optimizing existing YAML Pipelines
 
-👉 [**Laten we eens praten!**](mailto:info@mikebeemsterboer.nl).
+👉 [**Let's talk!**](mailto:info@mikebeemsterboer.nl)

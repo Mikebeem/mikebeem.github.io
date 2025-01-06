@@ -4,32 +4,31 @@ title: Beemsterboer IT Consultancy
 date: 2024-03-25 17:15 +0100
 categories: [Beemsterboer IT Consultancy, About]
 tags: [Beemsterboer IT Consultancy]
-permalink: /posts/beemsterboer-it-consultancy
-lang: nl
 pin: false
+permalink: /posts/beemsterboer-it-consultancy
+lang: en
+
 ---
 
-Vanaf 2 april 2024 start ik als freelance DevOps Consultant.
+Starting April 2, 2024, I will start as a freelance DevOps Consultant.
 
-Als DevOps Consultant richt ik me op de verbetering van de processen en
-samenwerking van IT teams die betrokken zijn bij software ontwikkeling en operatie.
-Ik help organisaties om Continuous Delivery toe te passen. Om daarmee software
-te leveren van een betere kwaliteit, met meer efficiëntie en waarbij de
-engineers dit met meer plezier doen.
+As a DevOps Consultant, I focus on improving the processes and collaboration of
+IT teams involved in software development and operations. I assist organizations
+in adopting Continuous Delivery, enabling them to deliver high quality software
+with greater efficiency while ensuring engineers enjoy their work more.
 
-Continuous Delivery en DevOps gaan verder dan alleen automatisering en het
-inrichten van tools. Het gaat ook om het aanpakken van het totale proces van
-idee, naar onder andere het ontwikkelen van software, het uitrollen naar productie,
-het draaiende houden in productie, het continu ophalen van feedback tot
-uiteindelijk het opruimen van de applicatie.
-Maar uiteindelijk is het vooral een mindset. Om als persoon, als team en als organisatie
-alles steeds een stukje beter te willen doen. Om continu te leren en continu te
-blijven verbeteren.
+Continuous Delivery and DevOps go beyond automation and tool configuration. It
+also involves addressing the entire process, from idea, software
+development, deployment to production, keeping it running in production,
+continuously gathering feedback, to eventually decommissioning the application.
+But ultimately, it is primarily a mindset, constantly striving to improve as an
+individual, team, and organization, continuously learning and continuously
+improving.
 
-Ik heb in de afgelopen jaren bij verschillende organisaties mogen werken in deze
-rol. Eerst bij Vivat, een grote Nederlandse verzekeraar, daarna namens Delta-N
-bij onder andere het CAK, DLL Group en bij De Nederlansche Bank (DNB).
-Ik heb de afgelopen 4,5 jaar met veel plezier bij Delta-N gewerkt en ik heb hier
-veel geleerd. Vanaf nu ga ik verder als zelfstandig professional.
+Over the past years, I have worked in this role at various organizations. First at
+Vivat, a large Dutch insurance company, and later on behalf of Delta-N at companies
+such as the CAK, DLL Group, and De Nederlandsche Bank (DNB). I have thoroughly
+enjoyed working at Delta-N for the past 4.5 years and have learned a lot. Now, I
+am taking the next step as an independent professional.
 
-Kunnen jullie hier ook wel wat hulp bij gebruiken? Neem gerust contact met me op.
+Could you use some help with this as well? Feel free to reach out!

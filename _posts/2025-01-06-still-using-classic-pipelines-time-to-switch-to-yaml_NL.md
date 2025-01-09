@@ -17,14 +17,14 @@ zijn deze jaren geleden opgezet en werken ze “prima”. Maar daar zit precies
 het probleem: veel teams blijven vasthouden aan Classic Pipelines
 simpelweg omdat ze nog werken.
 
-Maar technologie staat nooit stil. Classic Pipelines worden inmiddels
-(zoals de naam al zegt) als verouderd beschouwd. YAML Pipelines bieden
-meer flexibiliteit, herbruikbaarheid, en betere integratiemogelijkheden
+Maar technologie staat nooit stil. Classic Pipelines worden,
+zoals de naam al zegt, als verouderd beschouwd. YAML Pipelines bieden
+meer flexibiliteit, herbruikbaarheid en betere integratiemogelijkheden
 met moderne DevOps-practices.
 
 ## 🤔 Waarom gebruiken sommige bedrijven nog steeds Classic Pipelines?
 
-Bij de meeste klanten is YAML ook echt wel de standaard waarin nieuwe
+Bij de meeste teams is YAML ook echt wel de standaard waarmee nieuwe
 pipelines worden gemaakt, maar toch kom ik ook nog Classic Pipelines tegen
 die regelmatig draaien. Dit heeft vaak drie redenen:
 
@@ -34,15 +34,15 @@ die regelmatig draaien. Dit heeft vaak drie redenen:
  vervolgens jaren niet meer naar omkijken.
 
 2. **Het team is gewend om met Classic Pipelines te werken.**
- Developers en teams willen zich het liefst focussen op het bouwen van
- features. Het omschrijven van een bestaande Classic Pipeline naar YAML
+ Developers willen zich het liefst focussen op het bouwen van
+ features. Het aanpassen van een bestaande Classic Pipeline naar YAML
  kost tijd en energie. Veel teams blijven liever in hun vertrouwde
  omgeving werken.
 
 3. **Het team denkt dat YAML Pipelines niet alles ondersteunen.**
- Een veelgehoord misverstand is dat goedkeuringen of handmatige
+ Een veelgehoord misverstand is dat approvals of handmatige
  interventies alleen in Classic Pipelines mogelijk zijn. Dit klopt niet.
- YAML biedt uitgebreide mogelijkheden om approvals en manual
+ YAML biedt inmiddels uitgebreide mogelijkheden om approvals en manual
  interventions in je workflows in te bouwen. Sterker nog, dit werkt in
  YAML vaak zelfs flexibeler.
 
@@ -50,35 +50,34 @@ die regelmatig draaien. Dit heeft vaak drie redenen:
 
 Zelf weet ik als geen ander dat overstappen naar YAML Pipelines niet
 altijd vanzelf gaat. Toen ik ermee begon, moest ik echt wennen aan het
-schrijven van pipelines in code. De visuele interface van Classic voelde
-vertrouwd en YAML leek in het begin ingewikkeld. Even snel een pipeline
+schrijven van pipelines in code. De visuele interface van Classic pipelines
+voelde vertrouwd en YAML leek in het begin ingewikkeld. Even snel een pipeline
 bij elkaar klikken deed ik dan ook nog lang in de Classic interface.
 
 Maar inmiddels gebruik ik YAML dagelijks. Niet alleen in Azure DevOps,
-maar ook in GitHub Actions, GitLab, Docker en Kubernetes. Ik zou nu niet
-meer terug willen naar Classic Pipelines.
+maar bijvoorbeeld ook in GitHub Actions, GitLab, Docker en Kubernetes.
+Ik zou nu niet meer terug willen naar Classic Pipelines.
 
 En dat is voor mij meteen ook nog een reden om over te stappen naar YAML.
 Bij de meeste teams zijn YAML pipelines inmiddels de standaard. Als een
 Classic Pipeline issues heeft, kost het me meer moeite om te achterhalen
-at die fout kan zijn.
-Het gevolg is dan vaak dat ik de pipeline meteen ombouw naar YAML.
+wat die fout kan zijn.
+Het gevolg is dan vaak dat ik de pipeline ombouw naar YAML.
 
 ## 🌟 Wat zijn de voordelen van YAML Pipelines?
 
-Hier zijn de belangrijkste voordelen van YAML Pipelines:
+Dit zijn wat mij betreft de belangrijkste voordelen van YAML Pipelines:
 
 ### 🗂️ 1. Pipelines in versiebeheer
 
 YAML Pipelines worden opgeslagen in je repository, samen met je code. Dit
 betekent dat je wijzigingen in pipelines kunt tracken, reviewen, testen en
-beheren via pull requests. Hierdoor krijg je veel meer controle over je
-CI/CD-processen.
+beheren in Git. Hierdoor krijg je veel meer controle over je CI/CD-processen.
 
-Met Classic Pipelines wordt ook wel een versiegeschiedenis bijgehouden,
+Met Classic Pipelines worden wijzigingen ook wel bijgehouden,
 maar persoonlijk vind ik die geschiedenis een stuk lastiger om te
-vergelijken. Het is moeilijk te herleiden wanneer en waarom een bepaalde
-wijziging is gedaan.
+vergelijken en te doorzoeken. Het is moeilijk te herleiden wanneer en waarom
+een bepaalde wijziging is gedaan.
 
 ### 🔄 2. Herbruikbare templates
 
@@ -91,7 +90,7 @@ pipelines.
 Je kunt het vergelijken met het gebruik van Task Groups in Classic
 Pipelines, maar dan uitgebreider en over projecten heen. Zo kun je in
 templates in YAML op verschillende niveaus maken, voor taken, voor jobs,
-stages of hele pipelines.
+stages of voor hele pipelines.
 
 ### ⚙️ 3. Automatisering van complexe workflows
 
@@ -115,8 +114,8 @@ Hier zijn een aantal stappen die je kunt volgen:
 
 1. **Begin met nieuwe projecten.**
  Richt nieuwe pipelines direct in als YAML Pipelines. Dit voorkomt dat
- je later alles moet migreren. Dit zie ik overigens bij de meeste
- organisaties al gebeuren.
+ je later alles moet migreren. Dit zie ik bij de meeste
+ organisaties gelukkig al gebeuren.
 
 2. **Schakel het aanmaken van Classic Pipelines uit.**
  Azure DevOps biedt de mogelijkheid om het aanmaken van Classic
@@ -130,14 +129,14 @@ Hier zijn een aantal stappen die je kunt volgen:
 
 4. **Maak gebruik van templates.**
  Zodra je een pipeline hebt omgezet naar YAML die je mogelijk vaker
- kunt gebruiken, maak hier een template
- van zodat andere projecten deze eenvoudig kunnen hergebruiken.
+ kunt gebruiken, of waar je onderdelen vakar van kunt gebruiken, maak hier
+ meteen een template van zodat je deze eenvoudig kunt hergebruiken.
 
 5. **Gebruik tools zoals Yamlizr.**
  [**Yamlizr**](https://github.com/f2calv/yamlizr)
  is een handige tool om je Classic Pipelines automatisch om te
  zetten naar YAML. Het is geen magische oplossing, maar het kan veel
- handwerk schelen en kan je zeker een kickstart geven. Controleer altijd
+ handmatig werk schelen en kan je zeker een kickstart geven. Controleer altijd
  de gegenereerde YAML om er zeker van te zijn dat alles goed is omgezet.
 
 ## 🔧 In een volgende blog ga ik dieper in op de migratiestappen

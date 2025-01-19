@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 🧪 Still using Classic Pipelines? Time to switch to YAML!
-date: 2025-01-05 15:53 +0100
+date: 2025-01-19 08:55 +0100
 categories: [DevOps]
 tags: [DevOps, Automation, Pipeline]
 permalink: /posts/still-using-classic-pipelines-time-to-switch-to-yaml

@@ -181,4 +181,4 @@ team hierbij kan ondersteunen?
 - Inrichten van herbruikbare templates
 - Optimaliseren van bestaande YAML Pipelines
 
-👉 [**Laten we eens praten!**](mailto:info@mikebeemsterboer.nl).
+👉 [**Laten we eens praten!**](mailto:info@mikebeemsterboer.nl)

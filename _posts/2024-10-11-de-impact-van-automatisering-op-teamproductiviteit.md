@@ -2,8 +2,8 @@
 layout: post
 title: The impact of automation on team productivity
 date: 2024-10-11 15:35 +0100
-categories: [DevOps]
-tags: [DevOps, Automation, Practice]
+categories: [CI/CD, DevOps Practices]
+tags: [Automation, Feedback Loops]
 permalink: /posts/the-impact-of-automation-on-team-productivity
 lang: en
 
@@ -100,11 +100,6 @@ more efficiently, and with higher quality.
 In a world where "time-to-market" is crucial, automating software development
 processes is no longer an option but a necessity. It enables you to compete, innovate,
 and grow, while keeping your team motivated and productive.
-
-Want to know how automation can help your organization? Check out
-[**DevOps as a Service**](https://www.mikebeemsterboer.nl/devops-as-a-service/)
-and discover how you can quickly scale and optimize your processes with a
-flexible approach.
 
 ## Interested?
 

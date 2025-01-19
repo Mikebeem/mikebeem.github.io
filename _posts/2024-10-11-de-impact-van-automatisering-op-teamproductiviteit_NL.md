@@ -2,8 +2,8 @@
 layout: post
 title: De impact van automatisering op teamproductiviteit
 date: 2024-10-11 15:35 +0100
-categories: [DevOps]
-tags: [DevOps, Automation, Practice]
+categories: [CI/CD, DevOps Practices]
+tags: [Automation, Feedback Loops]
 permalink: /posts/the-impact-of-automation-on-team-productivity
 lang: nl
 
@@ -115,11 +115,6 @@ In een wereld waarin de "time-to-market" cruciaal is, is het automatiseren
 van software ontwikkelprocessen niet langer een optie, maar een noodzaak.
 Het stelt je in staat om te concurreren, te innoveren en te groeien,
 terwijl je team tegelijkertijd gemotiveerd en productief blijft.
-
-Wil je weten hoe automatisering jouw organisatie kan helpen?
-Kijk eens naar [**DevOps as a Service**](https://www.mikebeemsterboer.nl/devops-as-a-service/)
-en ontdek hoe je met een flexibele aanpak snel kunt opschalen en je processen
-kunt optimaliseren.
 
 ## Interesse?
 

@@ -12,15 +12,15 @@ lang: nl
 ## DevOps as a Service
 
 Wil je dat jouw DevOps-platform soepel blijft draaien zonder zelf een fulltime
-Platform Engineer aan te nemen? Met DevOps as a Service krijg je toegang tot een
-ervaren DevOps-expert die jouw team ondersteunt waar nodig — van het inrichten
-van CI/CD-pipelines tot het verbeteren van workflows en automatiseren van
-security checks.
+DevOps Engineer of Platform Engineer aan te nemen? Met DevOps as a Service krijg
+je toegang tot een ervaren DevOps-expert die jouw team ondersteunt waar nodig —
+van het inrichten van CI/CD-pipelines tot het verbeteren van workflows en
+automatiseren van security checks.
 
 ### Hoe werkt het?
 
 We starten met een kennismaking waarin we bespreken wat jouw team nodig heeft.
-Op basis daarvan stellen we een flexibel abonnement samen dat perfect aansluit
+Op basis daarvan stellen we een flexibel pakket samen dat perfect aansluit
 op jouw situatie. Denk hierbij aan:
 
 - **Setup en onderhoud** van Azure DevOps, GitHub of GitLab.

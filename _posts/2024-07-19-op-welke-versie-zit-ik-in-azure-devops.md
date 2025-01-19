@@ -3,7 +3,7 @@ layout: post
 title: What version of Azure DevOps am I using?
 date: 2024-07-19 14:45 +0100
 categories: [Azure DevOps]
-tags: [Azure DevOps, Features, Tool]
+tags: [Azure DevOps Updates]
 permalink: /posts/what-version-of-Azure-DevOps
 lang: en
 

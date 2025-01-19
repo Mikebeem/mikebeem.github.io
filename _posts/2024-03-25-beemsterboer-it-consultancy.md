@@ -2,7 +2,7 @@
 layout: post
 title: Beemsterboer IT Consultancy
 date: 2024-03-25 17:15 +0100
-categories: [Beemsterboer IT Consultancy, About]
+categories: [Beemsterboer IT Consultancy]
 tags: [Beemsterboer IT Consultancy]
 pin: false
 permalink: /posts/beemsterboer-it-consultancy

@@ -139,6 +139,13 @@ Hier zijn een aantal stappen die je kunt volgen:
  handmatig werk schelen en kan je zeker een kickstart geven. Controleer altijd
  de gegenereerde YAML om er zeker van te zijn dat alles goed is omgezet.
 
+6. **Gebruik AI.**
+ In Azure DevOps kun je je Classic Pipeline exporteren naar een JSON-bestand.
+ Dit JSON-bestand kun je aan een AI-assistent geven om er een YAML-bestand van
+ te maken. Dit vereist overigens meer handwerk dan een tool als Yamlizr,
+ omdat je dit voor iedere pipeline handmatig moet doen. Ook hiervoor geldt:
+ controleer en test het resultaat goed voordat je het daadwerkelijk gaat gebruiken.
+
 ## 🔧 In een volgende blog ga ik dieper in op de migratiestappen
 
 In een volgende blog zal ik deze stappen verder uitwerken met concrete

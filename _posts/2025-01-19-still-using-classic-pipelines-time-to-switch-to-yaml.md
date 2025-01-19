@@ -133,6 +133,13 @@ Here are a few steps to help you migrate from Classic Pipelines to YAML:
  give you a solid starting point. Always review the generated YAML to
  ensure everything is correctly converted.
 
+6. **Use AI.**
+ In Azure DevOps, you can export your Classic Pipeline to a JSON file.
+ This JSON file can be fed into an AI assistant to generate a YAML file.
+ However, this requires more manual work than a tool like Yamlizr,
+ as you need to do this manually for each pipeline. As always,
+ make sure to carefully review and test the result before using it in production.
+
 ## 🔧 Next blog: A deeper dive into migration steps
 
 In my next blog, Ill provide more detailed examples and tips to make your

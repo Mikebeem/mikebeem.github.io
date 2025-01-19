@@ -108,6 +108,20 @@ Continuous Integration (CI) en Continuous Deployment (CD). YAML Pipelines
 passen perfect in deze filosofie, omdat je hiermee ook je "Pipeline as
 Code" kunt opslaan.
 
+### 🛠️ 5. Minder onderhoudsproblemen en troubleshooting
+
+Wanneer je team voornamelijk YAML Pipelines gebruikt en er nog een enkele
+Classic Pipeline overblijft, kan het oplossen van problemen in die Classic
+Pipelines een uitdaging worden.
+
+De kennis en ervaring binnen het team verschuift naar YAML, waardoor minder
+mensen nog weten hoe Classic Pipelines precies werken. Als na verloop van tijd
+een probleem optreedt in die Classic Pipeline, zal het troubleshooting
+waarschijnlijk langer duren en kom je mogelijk alsnog voor de keuze te staan om
+de pipeline te repareren of om te bouwen naar YAML. Die keuze wil je niet pas
+hoeven maken op het moment dat een kritieke bug fix zo snel mogelijk naar productie
+moet.
+
 ## 📋 Hoe stap je over van Classic Pipelines naar YAML?
 
 Hier zijn een aantal stappen die je kunt volgen:

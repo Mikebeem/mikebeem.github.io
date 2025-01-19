@@ -104,6 +104,18 @@ In DevOps, we talk a lot about Infrastructure as Code (IaC), Continuous
 Integration (CI), and Continuous Deployment (CD). YAML Pipelines fit
 perfectly into this philosophy by enabling **Pipeline as Code**.
 
+### 🛠️ 5. Fewer maintenance issues and easier troubleshooting
+
+When your team primarily uses YAML Pipelines but still has a few remaining
+Classic Pipelines, troubleshooting issues in those Classic Pipelines can become
+increasingly challenging.
+
+As knowledge and experience within the team shift toward YAML, fewer people will
+remember how Classic Pipelines work. If an issue arises in a Classic Pipeline
+over time, resolving it will likely take longer, and you may ultimately have to
+decide whether to fix it or migrate to YAML. That’s not a decision you want to
+make when a critical bug fix needs to be deployed to production as soon as possible.
+
 ## 📋 How to migrate from Classic Pipelines to YAML
 
 Here are a few steps to help you migrate from Classic Pipelines to YAML:

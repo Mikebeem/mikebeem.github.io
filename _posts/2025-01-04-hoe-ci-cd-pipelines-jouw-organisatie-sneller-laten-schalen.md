@@ -2,8 +2,8 @@
 layout: post
 title: 🚀 How CI/CD Pipelines help your organization scale faster
 date: 2025-01-04 15:35 +0100
-categories: [DevOps]
-tags: [DevOps, Automation, Pipeline, Practice]
+categories: [DevOps Practices]
+tags: [Automation, Pipelines]
 permalink: /posts/how-ci-cd-pipelines-help-your-organization-scale-faster
 lang: en
 
@@ -104,9 +104,5 @@ and future-proof.
 A well-configured CI/CD pipeline makes your software deliveries faster and
 more reliable. But maybe your organization doesn’t need a full-time DevOps
 engineer, or you simply need someone to occasionally review your pipelines?
-
-With my [**DevOps as a Service**](https://www.mikebeemsterboer.nl/devops-as-a-service/)
-I ensure that your pipelines run optimally without you having to worry about
-them.
 
 👉 *[Contact me to discover how I can improve your CI/CD pipelines.](mailto:info@mikebeemsterboer.nl)*

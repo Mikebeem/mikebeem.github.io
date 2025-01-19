@@ -2,8 +2,8 @@
 layout: post
 title: 🧪 Still using Classic Pipelines? Time to switch to YAML!
 date: 2025-01-19 08:55 +0100
-categories: [DevOps]
-tags: [DevOps, Automation, Pipeline]
+categories: [Azure DevOps, CI/CD]
+tags: [Automation, Pipelines, YAML]
 permalink: /posts/still-using-classic-pipelines-time-to-switch-to-yaml
 lang: en
 
@@ -20,10 +20,10 @@ they still work.
 
 But technology doesn't stand still. As the name suggests, **Classic
 Pipelines are now considered outdated**. YAML Pipelines offer more
-flexibility, better reusability, and superior integration with modern DevOps
+flexibility, better reusability, and integrate better with modern DevOps
 practices.
 
-## 🤔 Why are some companies still using Classic Pipelines?
+## 🤔 Why do companies still use Classic Pipelines?
 
 At most companies, YAML is the default for new pipelines. However, I still
 come across Classic Pipelines that are actively being used. There are
@@ -81,7 +81,7 @@ particular change was made.
 ### 🔄 2. Reusable templates
 
 With YAML, you can create reusable templates that can be shared across
-multiple projects. This makes it much easier to set up new pipelines.
+projects. This makes it easier to set up new pipelines.
 Templates ensure consistency and save teams time by reducing manual
 pipeline configuration.
 

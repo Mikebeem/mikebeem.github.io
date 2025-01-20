@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 🧪 Still using Classic Pipelines? Time to switch to YAML!
-date: 2025-01-19 08:55 +0100
+date: 2025-01-20 20:55 +0100
 categories: [Azure DevOps, CI/CD]
 tags: [Automation, Pipelines, YAML]
 permalink: /posts/still-using-classic-pipelines-time-to-switch-to-yaml
@@ -164,11 +164,5 @@ will future-proof your pipelines. But I understand it's not always easy to
 free up time for this.
 
 Looking for someone to help guide you through the process?
-
-### 🎯 Here's how I can help
-
-- Migrating Classic Pipelines to YAML
-- Setting up reusable templates
-- Optimizing existing YAML Pipelines
 
 👉 [**Let's talk!**](mailto:info@mikebeemsterboer.nl)

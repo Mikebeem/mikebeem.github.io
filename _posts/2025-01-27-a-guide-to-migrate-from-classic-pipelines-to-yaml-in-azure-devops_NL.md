@@ -1,10 +1,10 @@
 ---
 layout: post
-title: 📋 Stapsgewijs migreren van Classic Pipelines naar YAML in Azure DevOps
+title: 📋 Migreer van Classic naar YAML pipelines in Azure DevOps
 date: 2025-01-27 20:19 +0100
 categories: [Azure DevOps, CI/CD]
 tags: [Automation, Pipelines, YAML]
-permalink: /posts/a-guide-to-migrate-from-classic-pipelines-to-yaml-in-azure-devops
+permalink: /posts/migrate-from-classic-to-yaml-pipelines-in-azure-devops
 lang: nl
 ---
 

@@ -171,7 +171,7 @@ Check out the [Yamlizr GitHub page](https://github.com/f2calv/yamlizr){:target="
 
 3. Review and adjust the generated YAML as needed.
 
-lthough Yamlizr automates a lot of the work, it's important to thoroughly review
+Although Yamlizr automates a lot of the work, it's important to thoroughly review
 the generated YAML. Specific settings or custom tasks may require manual adjustments.
 
 #### Note on Release Pipelines:

@@ -9,7 +9,8 @@ permalink: /posts/what-i-do-as-a-devops-consultant
 lang: nl
 ---
 
-Als DevOps Consultant help ik organisaties om hun softwareontwikkeling en IT-processen te optimaliseren. Mijn focus ligt op het verbeteren van samenwerking, automatisering en efficiëntie binnen teams. 
+Als DevOps Consultant help ik organisaties om hun softwareontwikkeling en IT-processen te optimaliseren. Mijn focus ligt op het verbeteren van samenwerking, automatisering en efficiëntie binnen teams en tussen
+teams onderling. 
 
 Hier zijn enkele manieren waarop ik waarde toevoeg:
 

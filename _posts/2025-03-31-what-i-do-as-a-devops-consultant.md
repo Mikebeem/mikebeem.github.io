@@ -9,7 +9,7 @@ permalink: /posts/what-i-do-as-a-devops-consultant
 lang: en
 ---
 
-As a DevOps Consultant, I help organizations optimize their software development and IT processes. My focus is on improving collaboration, automation, and efficiency within teams.
+As a DevOps Consultant, I help organizations optimize their software development and IT processes. My focus is on improving collaboration, automation, and efficiency within an between teams.
 
 Here are some ways I add value:
 
@@ -21,4 +21,4 @@ Here are some ways I add value:
 
 My goal is to help organizations deliver software faster, more reliably, and more efficiently.
 
-Curious how I can help your organization? Check out my [services](https://www.mikebeemsterboer.nl/services/) or [get in touch](mailto:info@mikebeemsterboer.nl).
+Curious how I can help your organization? [Get in touch!](mailto:info@mikebeemsterboer.nl).

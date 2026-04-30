@@ -10,11 +10,11 @@ layout:
 # The tabs of sidebar
 tabs:
   # format: <filename_without_extension>: <value>
-  home: Home
-  categories: Categories
+  home: Start
+  categories: Categorieen
   tags: Tags
-  archives: Archive
-  about: About
+  archives: Archief
+  about: Over
 
 # the text displayed in the search bar & search results
 search:
@@ -23,8 +23,8 @@ search:
   no_results: Oeps! Geen resultaten gevonden.
 
 panel:
-  lastmod: Recently Updated
-  trending_tags: Trending tags
+  lastmod: Recent bijgewerkt
+  trending_tags: Populaire tags
   toc: Inhoud
 
 copyright:
@@ -41,35 +41,36 @@ copyright:
     under the Creative Commons Attribution 4.0 International (CC BY 4.0) License by the author.
 
 meta: Using the :THEME theme for :PLATFORM.
+meta: Gebruikt het :THEME-thema voor :PLATFORM.
 
 not_found:
-  statement: Sorry, we've misplaced that URL or it's pointing to something that doesn't exist.
+  statement: Sorry, deze pagina bestaat niet of de link klopt niet meer.
 
 notification:
-  update_found: A new version of content is available.
-  update: Update
+  update_found: Er is een nieuwe versie van de inhoud beschikbaar.
+  update: Bijwerken
 
 # ----- Posts related labels -----
 
 post:
   written_by: Door
   posted: Gepost
-  updated: Updated
-  words: words
+  updated: Bijgewerkt
+  words: woorden
   pageview_measure: views
   read_time:
     unit: min
-    prompt: read
-  relate_posts: Further Reading
-  share: Share
+    prompt: lezen
+  relate_posts: Verder lezen
+  share: Delen
   button:
-    next: Newer
-    previous: Older
+    next: Nieuwer
+    previous: Ouder
     copy_code:
-      succeed: Copied!
+      succeed: Gekopieerd!
     share_link:
-      title: Copy link
-      succeed: Link copied successfully!
+      title: Kopieer link
+      succeed: Link gekopieerd!
 
 # Date time format.
 # See: <http://strftime.net/>, <https://day.js.org/docs/en/display/format>
@@ -84,8 +85,8 @@ df:
 # categories page
 categories:
   category_measure:
-    singular: category
-    plural: categories
+    singular: categorie
+    plural: categorieen
   post_measure:
-    singular: post
-    plural: posts
+    singular: bericht
+    plural: berichten

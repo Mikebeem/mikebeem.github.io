@@ -1,6 +1,6 @@
 ---
 # the default layout is 'page'
-title: Services
+title: Diensten
 icon: fas fa-cubes
 layout: page_toc
 toc: true

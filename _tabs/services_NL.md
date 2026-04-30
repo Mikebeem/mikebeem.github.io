@@ -10,89 +10,65 @@ lang: nl
 ---
 
 <!-- markdownlint-disable MD041 -->
-Met mijn ervaring als DevOps Consultant help ik graag verschillende organisaties
+Ik help organisaties die sneller, betrouwbaarder en met minder handwerk software
 <!-- markdownlint-enable MD041 -->
-in het verbeteren van de DevOps werkwijze en practices. Hieronder staan enkele
-voorbeelden van opdrachten waarmee ik jouw organisatie van dienst kan zijn.
+willen leveren. Mijn focus ligt op Azure DevOps, automation, Infrastructure as
+Code, GitOps en platform engineering. Daarbij werk ik het liefst in korte,
+gerichte trajecten of als part-time versterking.
 
-Als je interesse hebt of benieuwd bent naar de mogelijkheden,
-[neem gerust contact met me op](mailto:info@mikebeemsterboer.nl).
+Ik werk tooling-onafhankelijk en sluit aan op wat al past bij jullie organisatie,
+of dat nu Azure DevOps, GitHub of GitLab is.
 
-## CI/CD Pipeline Setup
+Deze drie samenwerkingsvormen passen het best bij hoe ik organisaties help.
 
-Als jouw organisatie al gebruik maakt van Azure DevOps, GitHub of vergelijkbare
-tooling, kan ik helpen bij het opzetten of verbeteren van jullie pipelines.
+## 1. Quick Scan of DevOps Audit
 
-## Infrastructure as Code (IaC)
+Voor teams die weten dat er verbetering mogelijk is, maar eerst scherp willen
+hebben waar de grootste winst zit.
 
-Opzetten en schrijven van Azure Bicep templates, waarmee ik kan helpen om
-resources op een geautomatiseerde en consistente manier uit te rollen in Azure.
+- Review van Azure DevOps, GitHub of GitLab inrichting
+- Check op CI/CD-pipelines, templates, security checks en bottlenecks
+- Concreet advies met prioriteiten en vervolgstappen
 
-## Automatisering (Builds, Deployments, repetitieve taken)
+Geschikt als korte instapopdracht of second opinion.
 
-Als jouw organisatie nog "met de hand" builds of deployments uitvoert, kan ik
-helpen bij het automatiseren hiervan. Dit geldt ook voor andere repetitieve taken
-die op dit moment nog handmatig uitgevoerd worden.
+## 2. Part-time DevOps of Platform Support
 
-## Azure DevOps Audit
+Voor organisaties die structureel hulp nodig hebben bij het verbeteren en
+onderhouden van hun delivery-platform, maar geen fulltime specialist zoeken.
 
-Ik kan een check doen op jullie Azure DevOps omgeving. Aan de hand van deze check
-kan ik jullie van advies voorzien om Azure DevOps nog effectiever in te zetten.
-Aan de hand van dit advies kan ik uiteraard ook helpen bij het implementeren van
-de verbeterpunten.
+- Optimaliseren van CI/CD-pipelines en herbruikbare templates
+- Ondersteuning bij automation, Terraform of Bicep, GitOps en platformbeheer
+- Advies en uitvoering voor teamvragen, standaarden en continue verbetering
 
-## Kickstart DevOps
+Dit past goed bij organisaties die rust, richting en praktische uitvoer zoeken.
 
-Met kickstart DevOps help ik jullie om een start te maken in jullie DevOps transitie.
-Uiteraard stemmen we jullie wensen af, maar voor een Kickstart DevOps kun je
-denken aan de volgende onderdelen:
+## 3. DevOps Platform as a Service
 
-- Assessment van de huidige situatie
-- Ontwikkelen van een verbeterplan
-- Setup van basis CI/CD pipelines en herbruikbare templates
-- Training voor het team
+Voor kleinere organisaties die een beter DevOps-platform willen zonder direct een
+vaste DevOps of Platform Engineer aan te nemen.
 
-## Continuous Improvement
+- Inrichting en onderhoud van Azure DevOps, GitHub of GitLab
+- Verbeteren van workflows, quality gates en security checks
+- Flexibele ondersteuning op afroep of periodiek
 
-Het Continuous Improvement pakket kan een vervolg zijn op de DevOps kickstart.
-Ik zal een inventarisatie maken van de huidige inrichting van de CI/CD pipelines.
-Vervolgens ga ik periodiek op zoek naar de bottlenecks in jullie pipelines en zal
-de pipelines hierop aanpassen.
+## Specialisaties
 
-Daarnaast ben ik beschikbaar voor advies en ondersteuning om eventuele ad-hoc
-vragen of problemen voor jullie op te pakken.
+- CI/CD-platformen zoals Azure DevOps, GitHub en GitLab
+- Automation van builds, deployments en terugkerende beheertaken
+- Infrastructure as Code met Terraform en Bicep
+- GitOps met Argo CD en Kubernetes-platformen
+- Platform engineering voor teams die willen standaardiseren en versnellen
+- Kong API Management en integratievraagstukken
 
-- Maandelijkse check-ins en optimalisatie
-- Performance monitoring en aanpassing van CI/CD pipelines
-- On-demand advies en ondersteuning
+## Wanneer ik goed pas
 
-## Advanced DevOps Transformation
+- Jullie team wil sneller releasen met minder handwerk
+- De platformtooling is belangrijk, maar krijgt intern te weinig aandacht
+- Er is behoefte aan senior expertise zonder langdurige fulltime inhuur
+- Er moet eerst overzicht en prioriteit komen voordat er veel gebouwd wordt
 
-Met Advanced DevOps transformation ga ik dieper in op jullie omgeving.
-Enkele onderdelen die in dit pakket kunnen zitten:
+## Volgende stap
 
-- In-depth assessment en roadmap creatie
-- Implementatie van geavanceerde DevOps tools en practices
-- Integratie van infrastructuur als code (IaC) en automatisering
-- Uitgebreide training en workshops voor het team
-
-## DevOps as a service
-
-Voor kleinere organisaties die mogelijk niet de middelen hebben voor een
-fulltime DevOps engineer, bied ik mijn diensten aan als parttime DevOps platform
-engineer. Deze flexibele aanpak stelt organisaties in staat om te profiteren van
-deskundige begeleiding zonder de verplichting van een fulltime inhuur. Ik kan
-helpen bij het opzetten en onderhouden van een DevOps platform dat aansluit
-bij jullie specifieke behoeften en doelen.
-
-Voor vragen, [neem contact met me op](mailto:info@mikebeemsterboer.nl).
-
-## Training
-
-Naast de support op DevOps tools kan ik jullie ook voorzien van training. Dit
-kan op het geboed van DevOps zelf, of specifiek op bepaalde tools. Denk hierbij
-aan Azure DevOps trainingen, niet alleen voor het beheren van Azure DevOps, maar
-ook voor gebruikers. Voor vrijwel alle onderwerpen rondom DevOps en Azure DevOps
-kan ik een training op maat maken.
-
-Voor interesse, [neem contact met me op](mailto:info@mikebeemsterboer.nl).
+Wil je sparren over een audit, part-time ondersteuning of een platform-aanpak
+op maat? [Neem contact met me op](mailto:info@mikebeemsterboer.nl?subject=Kennismaking%20DevOps%20diensten).

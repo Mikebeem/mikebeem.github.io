@@ -11,44 +11,56 @@ lang: nl
 
 ## DevOps as a Service
 
-Wil je dat jouw DevOps-platform soepel blijft draaien zonder zelf een fulltime
-DevOps Engineer of Platform Engineer aan te nemen? Met DevOps as a Service krijg
-je toegang tot een ervaren DevOps-expert die jouw team ondersteunt waar nodig —
-van het inrichten van CI/CD-pipelines tot het verbeteren van workflows en
-automatiseren van security checks.
+DevOps as a Service is bedoeld voor organisaties die wél een beter delivery-
+platform willen, maar niet direct een fulltime DevOps of Platform Engineer
+nodig hebben. Je krijgt senior ondersteuning bij het verbeteren van tooling,
+processen en platformkeuzes, op een manier die past bij een kleiner team of een
+beperkte behoefte in uren.
 
 ### Hoe werkt het?
 
-We starten met een kennismaking waarin we bespreken wat jouw team nodig heeft.
-Op basis daarvan stellen we een flexibel pakket samen dat perfect aansluit
-op jouw situatie. Denk hierbij aan:
+We starten met een korte intake en bepalen daarna waar de meeste winst zit.
+Dat kan gaan om de basis op orde brengen, onderhoud overnemen of periodiek
+verbeteringen doorvoeren.
+
+Denk bijvoorbeeld aan:
 
 - **Setup en onderhoud** van Azure DevOps, GitHub of GitLab.
 - **Optimalisatie van CI/CD-pipelines** voor één of meerdere projecten.
 - **Automatisering van workflows** om repetitieve taken uit handen te nemen.
 - **Security checks en rapportages** met tools zoals SonarCloud en GitLeaks.
+- **Platformondersteuning** rond Kubernetes, Argo CD, IaC en standaardisatie.
 
-Je kiest zelf hoe vaak je mijn expertise nodig hebt:
+Je kiest een vorm die past bij jouw team:
 
-- **Een paar uur per week of maand** als advies en onderhoud.
-- **Meer structurele ondersteuning** voor structurele verbeteringen.
+- **Op afroep** voor vragen, incidenten of gerichte verbeteringen.
+- **Periodiek** voor onderhoud, optimalisatie en afstemming.
+- **Als tijdelijke part-time versterking** wanneer er structureel te weinig capaciteit is.
 
 ### Waarom kiezen voor DevOps as a Service?
 
-- **Geen gedoe met onderhoud** — Jouw tools blijven soepel draaien.
-- **Altijd up-to-date workflows** — Ik zorg voor continu verbeterde pipelines.
-- **Flexibele ondersteuning** — Schaal mijn inzet op naar jouw behoefte.
+- **Geen fulltime inhuur nodig** terwijl je wel senior expertise inzet.
+- **Meer rust in delivery en platformbeheer** doordat verbeteringen blijven doorlopen.
+- **Flexibele ondersteuning** die meebeweegt met de fase van je team.
+- **Praktische combinatie van advies en uitvoering** in plaats van alleen een rapport.
+
+### Voor wie dit goed werkt
+
+- Kleine organisaties en scale-ups met een groeiend ontwikkelproces
+- Teams die te afhankelijk zijn van losse scripts of handmatig (platform)beheer
+- Organisaties die wel willen professionaliseren, maar klein willen starten
+- Teams die behoefte hebben aan een vaste sparringpartner voor DevOps en platformkeuzes
 
 ### Samenwerking op maat
 
 Elke organisatie is anders. Daarom is mijn dienst flexibel en op maat gemaakt.
-In plaats van vaste pakketten werk ik als een strategische partner die jouw team
-helpt bij het continu verbeteren van jullie DevOps-platform. We bepalen samen
-welke ondersteuning het beste bij jouw organisatie past.
+In plaats van zware trajecten of standaardpakketten werk ik als een strategische
+en uitvoerende partner die jouw team helpt om het platform stap voor stap sterker
+te maken. We bepalen samen welke inzet het meeste oplevert.
 
 🤝 **Laten we kennismaken**
 
-In een vrijblijvend gesprek bespreken we jouw situatie en behoeften. Samen
-bepalen we hoe ik jouw organisatie het beste kan ondersteunen.
+In een vrijblijvend gesprek bespreken we waar jullie nu tegenaan lopen en wat een
+logische eerste stap is.
 
-[Neem contact met me op](mailto:info@mikebeemsterboer.nl).
+[Neem contact met me op](mailto:info@mikebeemsterboer.nl?subject=Kennismaking%20DevOps%20as%20a%20Service).

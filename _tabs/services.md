@@ -10,85 +10,65 @@ lang: en
 ---
 
 <!-- markdownlint-disable MD041 -->
-With my experience as a DevOps Consultant, I enjoy helping various organizations
+I help organizations that want to deliver software faster, more reliably, and with less manual work.
 <!-- markdownlint-enable MD041 -->
-improve their DevOps practices and workflows. Below are some examples of
-projects where I can assist your organization.
+My focus is on CI/CD platforms, automation, Infrastructure as Code, GitOps, and
+platform engineering. I do my best work in short, focused engagements or as a
+part-time extension of your team.
 
-If you're interested or curious about the possibilities, 
-[feel free to contact me](mailto:info@mikebeemsterboer.nl).
+I work tool-agnostically and align with what fits your organization best,
+whether that is Azure DevOps, GitHub, or GitLab.
 
-## CI/CD Pipeline Setup
+These are the three collaboration models that fit my work best.
 
-If your organization is already using Azure DevOps, GitHub, or similar tools,
-I can help set up or improve your pipelines.
+## 1. Quick Scan or DevOps Audit
 
-## Infrastructure as Code (IaC)
+For teams that know there is room for improvement and want a sharp view of the
+highest-impact changes first.
 
-I can help set up and write Azure Bicep templates, enabling you to roll out
-resources in Azure in an automated and consistent manner.
+- Review of Azure DevOps, GitHub, or GitLab setup
+- Check of CI/CD pipelines, templates, security checks, and bottlenecks
+- Clear improvement advice with priorities and next steps
 
-## Automation (Builds, Deployments, Repetitive Tasks)
+This works well as a short starter engagement or an external second opinion.
 
-If your organization is still performing builds or deployments manually, I
-can assist in automating these processes. This also applies to other
-repetitive tasks currently done manually.
+## 2. Part-time DevOps or Platform Support
 
-## Azure DevOps Audit
+For organizations that need recurring support to improve and maintain their
+delivery platform without hiring a full-time specialist.
 
-I can conduct a check of your Azure DevOps environment. Based on this review,
-I can provide advice on how to use Azure DevOps more effectively. I can also
-help implement the recommended improvements.
+- Optimization of CI/CD pipelines and reusable templates
+- Support with automation, Terraform or Bicep, GitOps, and platform operations
+- Practical help with team questions, standards, and continuous improvement
 
-## Kickstart DevOps
+This is a strong fit when you need senior support, direction, and execution.
 
-With Kickstart DevOps, I assist your team in getting started with your DevOps
-transition. We will align your needs, but a Kickstart DevOps typically includes
-the following:
+## 3. DevOps Platform as a Service
 
-- Assessment of the current situation
-- Development of an improvement plan
-- Setup of basic CI/CD pipelines and reusable templates
-- Training for the team
+For smaller organizations that want a stronger DevOps platform without hiring a
+dedicated DevOps or Platform Engineer first.
 
-## Continuous Improvement
+- Setup and maintenance of Azure DevOps, GitHub, or GitLab
+- Improvements to workflows, quality gates, and security checks
+- Flexible support on demand or on a recurring basis
 
-The Continuous Improvement package can be a follow-up to the DevOps Kickstart.
-I will assess the current setup of your CI/CD pipelines and periodically look
-for bottlenecks. I will then adjust the pipelines accordingly.
+## Specializations
 
-Additionally, I am available for advice and support to handle any ad-hoc issues
-or questions.
+- CI/CD platforms such as Azure DevOps, GitHub, and GitLab
+- Automation of builds, deployments, and repetitive operational work
+- Infrastructure as Code with Terraform and Bicep
+- GitOps with Argo CD and Kubernetes platforms
+- Platform engineering for teams that want more standardization and speed
+- Kong API Management and related integration work
 
-- Monthly check-ins and optimizations
-- Performance monitoring and adjustments of CI/CD pipelines
-- On-demand advice and support
+## When I am a good fit
 
-## Advanced DevOps Transformation
+- Your team wants to release faster with less manual effort
+- Platform tooling matters, but does not get enough focused attention internally
+- You need senior DevOps expertise without a long full-time engagement
+- You first need clarity and priorities before launching a larger change program
 
-With Advanced DevOps Transformation, I dive deeper into your environment.
-Some components that may be included in this package are:
+## Next step
 
-- In-depth assessment and roadmap creation
-- Implementation of advanced DevOps tools and practices
-- Integration of Infrastructure as Code (IaC) and automation
-- Extensive training and workshops for the team
-
-## DevOps as a Service
-
-For smaller organizations that may not have the resources for a full-time
-DevOps engineer, I offer my services as a part-time DevOps platform engineer.
-This flexible approach allows organizations to benefit from expert guidance
-without the commitment of a full-time hire. I can help set up and maintain a
-DevOps platform tailored to your specific needs and goals.
-
-For questions, [contact me](mailto:info@mikebeemsterboer.nl).
-
-## Training
-
-In addition to supporting DevOps tools, I also offer training. This can be
-on DevOps itself or on specific tools. For example, I provide Azure DevOps
-training, not just for managing Azure DevOps, but also for users. I can create
-custom training for almost any topic related to DevOps and Azure DevOps.
-
-For inquiries, [contact me](mailto:info@mikebeemsterboer.nl).
+If you want to discuss an audit, part-time support, or a platform improvement
+approach, [contact me](mailto:info@mikebeemsterboer.nl?subject=Intro%20call%20DevOps%20services).

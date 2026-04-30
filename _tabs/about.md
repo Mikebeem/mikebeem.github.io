@@ -8,27 +8,25 @@ permalink: /about/
 lang: en
 ---
 
-As a DevOps Consultant, I focus on improving the processes and collaboration of
-IT teams involved in software development and operations. I help organizations
-apply Continuous Delivery to deliver software of better quality, with greater
-efficiency, and in a way that engineers enjoy more.
+I help engineering teams and smaller organizations build a more reliable delivery
+platform. My work sits at the intersection of CI/CD platforms, automation,
+Infrastructure as Code, GitOps, and platform engineering. I combine advisory work
+with hands-on execution, so improvements do not stop at a slide deck.
 
 [My resume can be found here](/about/resume).
 
-Continuous Delivery and DevOps go beyond just automation and setting up tools.
-It’s about addressing the entire process, from the idea, to developing software,
-deploying it to production, maintaining it in production, continuously gathering
-feedback, and ultimately decommissioning the application. But in the end, it's
-mostly about mindset: continuously wanting to improve, as an individual, as a
-team, and as an organization. To keep learning and always striving to improve.
+I work best with teams that want to professionalize delivery without immediately
+committing to a heavy transformation program or a full-time specialist. In those
+cases, I act as a part-time reinforcement, sparring partner, or hands-on expert
+to bring more calm, standardization, and speed into the delivery process.
 
-Over the past years, I have worked in this role for several organizations.
-First at Vivat (now Athora), a large Dutch insurance company, then on behalf of
-Delta-N at various organizations, including CAK, DLL Group, and De Nederlandsche
-Bank (DNB), and currently I am carrying out an assignment at Delta Fiber Nederland.
+Over the years I have worked with organizations including Athora, CAK, DLL Group,
+De Nederlandsche Bank, and Delta Fiber. I supported teams with CI/CD,
+Azure DevOps, GitHub, and GitLab environments, Kubernetes, security tooling,
+YAML migrations, standardization, and platform improvement.
 
-Are you also looking for someone to help your organization with this?
-[Feel free to contact me](mailto:info@mikebeemsterboer.nl).
+If you are looking for someone who can advise, temporarily strengthen the team,
+and help improvements stick, [feel free to contact me](mailto:info@mikebeemsterboer.nl?subject=Intro%20call%20DevOps%20Consultant).
 
 Company Registration Number: 92499589\
 VAT ID: NL004960226B58

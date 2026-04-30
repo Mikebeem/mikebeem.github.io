@@ -23,10 +23,10 @@ timezone: Europe/Amsterdam
 
 title: Beemsterboer IT Consultancy # the main title
 
-tagline: Improve Continuously # it will display as the sub-title
+tagline: Part-time DevOps and Platform Engineering # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  DevOps Consultant
+  Freelance DevOps Consultant for CI/CD platforms, platform engineering, automation, and DevOps as a Service.
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.

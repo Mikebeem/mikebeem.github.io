@@ -4,7 +4,6 @@ title: Wat ik doe als DevOps Consultant
 date: 2025-03-31 18:00 +0100
 categories: [Beemsterboer IT Consultancy]
 tags: [Beemsterboer IT Consultancy, DevOps]
-pin: true
 permalink: /posts/what-i-do-as-a-devops-consultant
 lang: nl
 ---

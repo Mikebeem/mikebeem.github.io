@@ -10,11 +10,11 @@ lang: nl
 ---
 
 <!-- markdownlint-disable MD041 -->
-Ik help organisaties die sneller, betrouwbaarder en met minder handwerk software
+Ik help organisaties die sneller willen releasen, minder afhankelijk willen zijn
 <!-- markdownlint-enable MD041 -->
-willen leveren. Mijn focus ligt op Azure DevOps, automation, Infrastructure as
-Code, GitOps en platform engineering. Daarbij werk ik het liefst in korte,
-gerichte trajecten of als part-time versterking.
+van handmatig werk en meer rust in hun delivery-proces zoeken. Daarvoor
+verbeter ik DevOps-werkwijzen, CI/CD-platformen, automation en platform
+engineering, in korte trajecten of als part-time ondersteuning.
 
 Ik werk tooling-onafhankelijk en sluit aan op wat al past bij jullie organisatie,
 of dat nu Azure DevOps, GitHub of GitLab is.

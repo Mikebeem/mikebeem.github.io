@@ -35,12 +35,11 @@ copyright:
     link: https://creativecommons.org/licenses/by/4.0/
 
   # Displayed in the footer
-  brief: Some rights reserved.
+  brief: Sommige rechten voorbehouden.
   verbose: >-
-    Except where otherwise noted, the blog posts on this site are licensed
-    under the Creative Commons Attribution 4.0 International (CC BY 4.0) License by the author.
+    Tenzij anders vermeld, vallen de blogartikelen op deze site onder de
+    Creative Commons Attribution 4.0 International (CC BY 4.0) licentie van de auteur.
 
-meta: Using the :THEME theme for :PLATFORM.
 meta: Gebruikt het :THEME-thema voor :PLATFORM.
 
 not_found:
@@ -57,7 +56,7 @@ post:
   posted: Gepost
   updated: Bijgewerkt
   words: woorden
-  pageview_measure: views
+  pageview_measure: weergaven
   read_time:
     unit: min
     prompt: lezen

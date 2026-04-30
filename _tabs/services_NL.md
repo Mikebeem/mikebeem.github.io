@@ -32,7 +32,7 @@ hebben waar de grootste winst zit.
 
 Geschikt als korte instapopdracht of second opinion.
 
-## 2. Part-time DevOps of Platform Support
+## 2. Parttime DevOps of Platform Support
 
 Voor organisaties die structureel hulp nodig hebben bij het verbeteren en
 onderhouden van hun delivery-platform, maar geen fulltime specialist zoeken.

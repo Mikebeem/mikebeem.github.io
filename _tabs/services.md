@@ -32,7 +32,7 @@ highest-impact changes first.
 
 This works well as a short starter engagement or an external second opinion.
 
-## 2. Part-time DevOps or Platform Support
+## 2. Parttime DevOps or Platform Support
 
 For organizations that need recurring support to improve and maintain their
 delivery platform without hiring a full-time specialist.

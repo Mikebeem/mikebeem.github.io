@@ -10,7 +10,7 @@ layout:
 # The tabs of sidebar
 tabs:
   # format: <filename_without_extension>: <value>
-  home: Start
+  home: Home
   categories: Categorieen
   tags: Tags
   archives: Archief

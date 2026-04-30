@@ -2,8 +2,10 @@ tools:
 - name: Azure DevOps
 - name: Azure
 - name: GitHub
+- name: GitLab
 - name: Argo CD
 - name: Kubernetes
+- name: Kong API Gateway
 - name: Nexus
 - name: Mend
 - name: SonarCloud / SonarQube

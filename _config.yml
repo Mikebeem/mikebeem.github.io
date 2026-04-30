@@ -23,7 +23,7 @@ timezone: Europe/Amsterdam
 
 title: Beemsterboer IT Consultancy # the main title
 
-tagline: Part-time DevOps and Platform Engineering # it will display as the sub-title
+tagline: DevOps and Platform Engineering # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   Freelance DevOps Consultant for CI/CD platforms, platform engineering, automation, and DevOps as a Service.

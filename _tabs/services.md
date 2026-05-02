@@ -1,6 +1,7 @@
 ---
 # the default layout is 'page'
 title: Services
+description: DevOps Platform Engineering services for growing software teams, including a Platform Scan, ongoing Platform Care, and focused improvement projects.
 icon: fas fa-cubes
 layout: page_toc
 toc: true
@@ -9,66 +10,129 @@ permalink: /services/
 lang: en
 ---
 
-<!-- markdownlint-disable MD041 -->
-I help organizations that want to deliver software faster, more reliably, and with less manual work.
-<!-- markdownlint-enable MD041 -->
-My focus is on CI/CD platforms, automation, Infrastructure as Code, GitOps, and
-platform engineering. I do my best work in short, focused engagements or as a
-part-time extension of your team.
+## DevOps Platform Engineering for growing software teams
 
-I work tool-agnostically and align with what fits your organization best,
-whether that is Azure DevOps, GitHub, or GitLab.
+I help software teams make their CI/CD, Azure DevOps, GitHub, or GitLab setup
+and deployment process reliable, secure, and maintainable without needing a
+full-time Platform Engineer.
 
-These are the three collaboration models that fit my work best.
+This is a good fit for smaller and medium-sized software companies with one or
+more development teams, where platform work matters but does not yet justify a
+dedicated full-time DevOps or Platform Engineering role.
 
-## 1. Quick Scan or DevOps Audit
+[Plan an introduction call](mailto:info@mikebeemsterboer.nl?subject=Introduction%20call%20DevOps%20Platform%20Engineering)
 
-For teams that know there is room for improvement and want a sharp view of the
-highest-impact changes first.
+[Start with a DevOps Platform Scan](#devops-platform-scan)
 
-- Review of Azure DevOps, GitHub, or GitLab setup
-- Check of CI/CD pipelines, templates, security checks, and bottlenecks
-- Clear improvement advice with priorities and next steps
+## Where teams get stuck
 
-This works well as a short starter engagement or an external second opinion.
+Many growing software teams have reached the point where delivery and platform
+work needs more structure, but nobody fully owns it yet.
 
-## 2. Parttime DevOps or Platform Support
+- Pipelines fail regularly and nobody really owns them.
+- Every repository has its own way of building and deploying.
+- Developers spend too much time maintaining tooling instead of building features.
+- Security and quality checks are not applied consistently.
+- Azure DevOps, GitHub, or GitLab was set up once, but is not actively maintained.
+- A full-time Platform Engineer is too expensive, but having nobody responsible is also risky.
 
-For organizations that need recurring support to improve and maintain their
-delivery platform without hiring a full-time specialist.
+That usually leads to brittle delivery workflows, more ad-hoc work, and slower
+improvement than the team actually needs.
 
-- Optimization of CI/CD pipelines and reusable templates
-- Support with automation, Terraform or Bicep, GitOps, and platform operations
-- Practical help with team questions, standards, and continuous improvement
+## Main offerings
 
-This is a strong fit when you need senior support, direction, and execution.
+### DevOps Platform Scan
 
-## 3. DevOps Platform as a Service
+A short, fixed-scope assessment for teams that want a clear view of where their
+DevOps platform stands and what should happen next.
 
-For smaller organizations that want a stronger DevOps platform without hiring a
-dedicated DevOps or Platform Engineer first.
+Typical deliverables:
 
-- Setup and maintenance of Azure DevOps, GitHub, or GitLab
-- Improvements to workflows, quality gates, and security checks
-- Flexible support on demand or on a recurring basis
+- Review of CI/CD pipelines
+- Review of branching, permissions, security, and quality checks
+- Identification of risks and quick wins
+- Practical improvement roadmap for the next 30, 60, and 90 days
 
-## Specializations
+This is the right starting point if you want an external second opinion, an
+Azure DevOps audit, or sharper priorities before investing in larger changes.
 
-- CI/CD platforms such as Azure DevOps, GitHub, and GitLab
-- Automation of builds, deployments, and repetitive operational work
+### DevOps Platform Care
+
+A recurring service for ongoing support, maintenance, and improvement of your
+delivery platform.
+
+Typical outcomes:
+
+- More reliable pipelines
+- Better developer experience
+- Less ad-hoc DevOps work for developers
+- Continuous improvement of CI/CD, automation, and platform standards
+- Access to experienced DevOps and Platform Engineering expertise without a full-time hire
+
+This is the productized version of part-time DevOps or platform support: steady
+senior attention on the platform, without turning it into a full-time headcount.
+For more detail on this recurring model, see [DevOps Platform Care](/devops-platform-care/).
+
+### DevOps Platform Improvement Projects
+
+Focused implementation work for teams that already know what needs to improve,
+or that want to execute the roadmap from a Platform Scan.
+
+Typical project themes:
+
+- CI/CD pipeline setup or modernization
+- YAML pipeline templates
+- Azure DevOps, GitHub, or GitLab governance
+- Security and quality scanning
+- Infrastructure as Code
+- Kubernetes and GitOps onboarding
+- Build agent setup and optimization
+- Release automation
+
+These projects can be short and focused, or part of a broader platform
+improvement trajectory.
+
+## How existing service topics fit in
+
+The work itself is still hands-on and practical. Topics I regularly help with
+include:
+
+- CI/CD Pipeline Setup and modernization as part of improvement projects
 - Infrastructure as Code with Terraform and Bicep
-- GitOps with Argo CD and Kubernetes platforms
-- Platform engineering for teams that want more standardization and speed
-- Kong API Management and related integration work
+- Automation of builds, deployments, and repetitive operational work
+- Azure DevOps audits and DevOps health checks within the Platform Scan
+- Kickstart DevOps for teams that need a structured first step
+- Continuous Improvement through recurring Platform Care
+- Advanced DevOps Transformation for teams with broader platform or process changes
+- Training and coaching to help teams adopt new standards and ways of working
 
-## When I am a good fit
+## How we can start
 
-- Your team wants to release faster with less manual effort
-- Platform tooling matters, but does not get enough focused attention internally
-- You need senior DevOps expertise without a long full-time engagement
-- You first need clarity and priorities before launching a larger change program
+1. Introductory call
+2. DevOps Platform Scan
+3. Improvement roadmap
+4. Ongoing Platform Care or a focused implementation project
 
-## Next step
+## Why work with Mike
 
-If you want to discuss an audit, part-time support, or a platform improvement
-approach, [contact me](mailto:info@mikebeemsterboer.nl?subject=Intro%20call%20DevOps%20services).
+I work pragmatically and tool-agnostically, with a focus on what smaller teams
+can realistically maintain over time.
+
+- Practical experience with Azure DevOps, GitHub, and GitLab
+- Deep work on CI/CD pipelines and reusable YAML templates
+- Experience with Kubernetes, GitOps, and platform standardization
+- Infrastructure as Code with Terraform and Bicep
+- Security and quality checks as part of everyday delivery workflows
+- Automation that reduces manual work and operational friction
+- Coaching development teams and helping improvements stick
+- Translating enterprise DevOps practices into approaches that fit smaller teams
+
+I do my best work in short, focused engagements or as a recurring extension of a
+team that wants more reliability and structure without unnecessary complexity.
+
+## Want to know where your DevOps platform stands?
+
+Plan a short introduction call and discover whether a Platform Scan or ongoing
+Platform Care would help your team.
+
+[Plan an introduction call](mailto:info@mikebeemsterboer.nl?subject=Introduction%20call%20DevOps%20Platform%20Engineering)

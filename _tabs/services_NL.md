@@ -1,6 +1,7 @@
 ---
 # the default layout is 'page'
 title: Diensten
+description: DevOps Platform Engineering diensten voor groeiende softwareteams, met een Platform Scan, doorlopende Platform Care en gerichte verbetertrajecten.
 icon: fas fa-cubes
 layout: page_toc
 toc: true
@@ -9,66 +10,132 @@ permalink: /services/
 lang: nl
 ---
 
-<!-- markdownlint-disable MD041 -->
-Ik help organisaties die sneller willen releasen, minder afhankelijk willen zijn
-<!-- markdownlint-enable MD041 -->
-van handmatig werk en meer rust in hun delivery-proces zoeken. Daarvoor
-verbeter ik DevOps-werkwijzen, CI/CD-platformen, automation en platform
-engineering, in korte trajecten of als part-time ondersteuning.
+## DevOps Platform Engineering voor groeiende softwareteams
 
-Ik werk tooling-onafhankelijk en sluit aan op wat al past bij jullie organisatie,
-of dat nu Azure DevOps, GitHub of GitLab is.
+Ik help softwareteams om hun CI/CD, Azure DevOps-, GitHub- of GitLab-inrichting
+en deploymentproces betrouwbaar, veilig en beheersbaar te maken, zonder dat er
+direct een fulltime Platform Engineer nodig is.
 
-Deze drie samenwerkingsvormen passen het best bij hoe ik organisaties help.
+Dit past goed bij kleinere en middelgrote softwarebedrijven met een of meerdere
+development teams, waar platformwerk belangrijk is maar nog geen aparte
+fulltime rol rechtvaardigt.
 
-## 1. Quick Scan of DevOps Audit
+[Plan een kennismakingsgesprek](mailto:info@mikebeemsterboer.nl?subject=Kennismaking%20DevOps%20Platform%20Engineering)
 
-Voor teams die weten dat er verbetering mogelijk is, maar eerst scherp willen
-hebben waar de grootste winst zit.
+[Start met een DevOps Platform Scan](#devops-platform-scan)
 
-- Review van Azure DevOps, GitHub of GitLab inrichting
-- Check op CI/CD-pipelines, templates, security checks en bottlenecks
-- Concreet advies met prioriteiten en vervolgstappen
+## Waar teams op vastlopen
 
-Geschikt als korte instapopdracht of second opinion.
+Veel groeiende softwareteams komen op het punt waarop delivery en platformwerk
+meer structuur nodig hebben, maar nog niet echt ergens expliciet belegd zijn.
 
-## 2. Parttime DevOps of Platform Support
+- Pipelines vallen regelmatig uit en niemand voelt zich echt eigenaar.
+- Elke repository heeft zijn eigen manier van bouwen en deployen.
+- Developers besteden te veel tijd aan tooling in plaats van aan features.
+- Security- en quality checks worden niet overal consistent toegepast.
+- Azure DevOps, GitHub of GitLab is ooit ingericht, maar wordt niet actief onderhouden.
+- Een fulltime Platform Engineer is te duur, maar niemand verantwoordelijk hebben is ook risicovol.
 
-Voor organisaties die structureel hulp nodig hebben bij het verbeteren en
-onderhouden van hun delivery-platform, maar geen fulltime specialist zoeken.
+Dat leidt vaak tot kwetsbare delivery-processen, meer ad-hoc werk en tragere
+verbetering dan het team eigenlijk nodig heeft.
 
-- Optimaliseren van CI/CD-pipelines en herbruikbare templates
-- Ondersteuning bij automation, Terraform of Bicep, GitOps en platformbeheer
-- Advies en uitvoering voor teamvragen, standaarden en continue verbetering
+## Hoofdaanbod
 
-Dit past goed bij organisaties die rust, richting en praktische uitvoer zoeken.
+### DevOps Platform Scan
 
-## 3. DevOps Platform as a Service
+Een korte, afgebakende analyse voor teams die scherp willen krijgen waar hun
+DevOps-platform nu staat en wat de meest logische vervolgstappen zijn.
 
-Voor kleinere organisaties die een beter DevOps-platform willen zonder direct een
-vaste DevOps of Platform Engineer aan te nemen.
+Typische oplevering:
 
-- Inrichting en onderhoud van Azure DevOps, GitHub of GitLab
-- Verbeteren van workflows, quality gates en security checks
-- Flexibele ondersteuning op afroep of periodiek
+- Review van CI/CD-pipelines
+- Review van branching, rechten, security en quality checks
+- Inzicht in risico's en quick wins
+- Praktische verbeterroadmap voor de komende 30, 60 en 90 dagen
 
-## Specialisaties
+Dit is een sterke start als je behoefte hebt aan een second opinion, een Azure
+DevOps, GitHub of GitLab audit of meer focus voordat je in grotere verbeteringen
+investeert.
 
-- CI/CD-platformen zoals Azure DevOps, GitHub en GitLab
-- Automation van builds, deployments en terugkerende beheertaken
+### DevOps Platform Care
+
+Een terugkerende dienst voor ondersteuning, onderhoud en verbetering van jullie
+delivery-platform.
+
+Typische resultaten:
+
+- Betrouwbaardere pipelines
+- Een betere developer experience
+- Minder ad-hoc DevOps werk voor developers
+- Doorlopende verbetering van CI/CD, automation en platformstandaarden
+- Toegang tot ervaren DevOps- en Platform Engineering-expertise zonder fulltime inhuur
+
+Dit is de productized variant van parttime DevOps- of platformondersteuning:
+structurele senior aandacht voor het platform, zonder dat daar meteen een
+fulltime functie voor nodig is. Meer context vind je op de pagina
+[DevOps Platform Care](/devops-platform-care/).
+
+### DevOps Platform Improvement Projects
+
+Gerichte implementatietrajecten voor teams die al weten wat er moet verbeteren,
+of die de roadmap uit een Platform Scan willen uitvoeren.
+
+Typische projectonderwerpen:
+
+- CI/CD-pipeline setup of modernisering
+- YAML-pipeline templates
+- Azure DevOps-, GitHub- of GitLab-governance
+- Security- en quality scanning
+- Infrastructure as Code
+- Kubernetes- en GitOps-onboarding
+- Build agent-setup en optimalisatie
+- Release automation
+
+Deze trajecten kunnen kort en gericht zijn, of onderdeel zijn van een bredere
+platformverbetering.
+
+## Waar ik concreet bij help
+
+De dienstverlening is helder afgebakend, maar het werk blijft praktisch en
+hands-on. Ik help bijvoorbeeld met:
+
+- CI/CD Pipeline Setup en modernisering als onderdeel van verbeterprojecten
 - Infrastructure as Code met Terraform en Bicep
-- GitOps met Argo CD en Kubernetes-platformen
-- Platform engineering voor teams die willen standaardiseren en versnellen
-- Kong API Management en integratievraagstukken
+- Automation van builds, deployments en terugkerend operationeel werk
+- Azure DevOps-audits en DevOps health checks binnen de Platform Scan
+- Kickstart DevOps voor teams die een gestructureerde eerste stap nodig hebben
+- Continuous Improvement via terugkerende Platform Care
+- Advanced DevOps Transformation voor teams met bredere platform- of procesverandering
+- Training en coaching om teams nieuwe standaarden en werkwijzen te laten borgen
 
-## Wanneer ik goed pas
+## Hoe we kunnen starten
 
-- Jullie team wil sneller releasen met minder handwerk
-- De platformtooling is belangrijk, maar krijgt intern te weinig aandacht
-- Er is behoefte aan senior expertise zonder langdurige fulltime inhuur
-- Er moet eerst overzicht en prioriteit komen voordat er veel gebouwd wordt
+1. Kennismakingsgesprek
+2. DevOps Platform Scan
+3. Verbeterroadmap
+4. Doorlopende Platform Care of een gericht implementatieproject
 
-## Volgende stap
+## Waarom samenwerken met Mike
 
-Wil je sparren over een audit, part-time ondersteuning of een platform-aanpak
-op maat? [Neem contact met me op](mailto:info@mikebeemsterboer.nl?subject=Kennismaking%20DevOps%20diensten).
+Ik werk pragmatisch en tooling-onafhankelijk, met focus op oplossingen die ook
+voor kleinere teams realistisch beheersbaar blijven.
+
+- Praktische ervaring met Azure DevOps, GitHub en GitLab
+- Veel werk gedaan rond CI/CD-pipelines en herbruikbare YAML-templates
+- Ervaring met Kubernetes, GitOps en platformstandaardisatie
+- Infrastructure as Code met Terraform en Bicep
+- Security- en quality checks als onderdeel van dagelijkse delivery
+- Automation die handmatig werk en operationele frictie vermindert
+- Coaching van development teams zodat verbeteringen ook blijven werken
+- Enterprise DevOps-praktijken vertalen naar een aanpak die past bij kleinere teams
+
+Ik werk het liefst in korte, gerichte trajecten of als terugkerende uitbreiding
+van een team dat meer betrouwbaarheid en structuur nodig heeft zonder onnodige
+complexiteit.
+
+## Weten waar jullie DevOps-platform nu staat?
+
+Plan een kort kennismakingsgesprek en ontdek of een Platform Scan of
+doorlopende Platform Care jullie team verder helpt.
+
+[Plan een kennismakingsgesprek](mailto:info@mikebeemsterboer.nl?subject=Kennismaking%20DevOps%20Platform%20Engineering)

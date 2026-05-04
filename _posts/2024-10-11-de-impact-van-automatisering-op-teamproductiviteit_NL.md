@@ -1,122 +1,128 @@
 ---
 layout: post
-title: De impact van automatisering op teamproductiviteit
-date: 2024-10-11 15:35 +0100
+title: Wanneer automatisering noodzakelijk wordt voor een groeiend softwareteam
+description: Wanneer groeiende softwareteams merken dat ad-hoc automatisering niet meer genoeg is, en waarom meer standaardisatie, CI/CD-structuur en platformondersteuning dan nodig worden.
+date: 2026-05-04 15:35 +0100
 categories: [CI/CD, DevOps Practices]
-tags: [Automation, Feedback Loops]
-permalink: /posts/the-impact-of-automation-on-team-productivity
+tags: [Automation, Platform Engineering, CI/CD]
+permalink: /posts/when-automation-becomes-necessary-for-a-growing-software-team
 lang: nl
 
 ---
 
-Bij software ontwikkeling is snelheid alles. Teams die snel kunnen
-bouwen, testen en leveren, presteren vaak
-beter op het gebied van innovatie en klanttevredenheid.
-Maar hoe zorg je ervoor dat die snelheid hand in hand gaat met kwaliteit?
-Een deel van het antwoord ligt in **automatisering**.
+Automatisering wordt vaak neergezet als iets waarmee teams tijd besparen. Dat is waar,
+maar voor groeiende softwareteams is het op een bepaald moment meer dan dat.
+Dan wordt automatisering geen optimalisatie meer, maar een voorwaarde om software
+delivery beheersbaar te houden.
 
-Automatisering in het ontwikkelproces kan de productiviteit van je
-ontwikkelteam flink verbeteren, en tegelijkertijd de kwaliteit van de
-code verhogen. In deze blog bespreek ik hoe automatisering je team kan
-helpen om sneller en efficiënter te werken.
+Dat moment herken je meestal vrij snel. Pipelines verschillen per repository,
+security- en quality checks zijn niet overal hetzelfde ingericht, en deploymentproblemen
+komen te vaak terecht bij developers of tech leads. Wat eerst prima werkte met een paar
+losse scripts en wat handmatig werk, begint dan steeds meer frictie op te leveren.
 
-## 1. **Versnelde feedback loops**
+## Wanneer ad-hoc automatisering niet meer genoeg is
 
-Een van de grootste voordelen van automatisering is
-de mogelijkheid om snelle feedback te krijgen. Door middel van Continuous
-Integration (CI) worden veranderingen in de code automatisch getest zodra
-ze zijn doorgevoerd. Hierdoor krijgt het team vrijwel direct feedback over
-eventuele fouten of bugs. Dit voorkomt dat er later in het proces
-kostbare fouten worden ontdekt, wat vertragingen voorkomt en zorgt voor
-snellere iteraties.
+In veel softwareteams groeit automatisering stap voor stap. Iemand richt een pipeline in,
+iemand anders voegt een check toe, en ondertussen lost het team incidenten en uitzonderingen
+op zodra ze zich voordoen.
 
-Zonder geautomatiseerde tests zouden ontwikkelaars handmatig moeten
-controleren of hun code werkt, wat veel tijd kost. Met geautomatiseerde
-pipelines weet je meteen of alles functioneert zoals het hoort.
+Dat werkt vaak best een tijd. Totdat de complexiteit toeneemt.
 
-## 2. **Efficiëntie door CI/CD-pipelines**
+Je merkt dat bijvoorbeeld aan dit soort signalen:
 
-Een goed ingerichte CI/CD-pipeline is als een geoliede machine die ervoor
-zorgt dat code, zodra deze is goedgekeurd, snel en zonder onnodige handmatige
-interventie in productie kan worden genomen. Dit vermindert het risico op
-menselijke fouten, versnelt de levertijd, en zorgt voor een constante flow
-van nieuwe functionaliteit en verbeteringen.
+- pipelines en deploymentprocessen verschillen sterk tussen teams of repositories
+- quality en security checks worden niet consistent toegepast
+- kennis over delivery zit bij een paar mensen
+- builds of deployments kosten onnodig veel handmatig werk
+- developers besteden steeds meer tijd aan tooling in plaats van aan productontwikkeling
 
-Automatisering verwijderd tijdrovende taken zoals handmatige checks,
-deployments en infrastructuur beheer. Ontwikkelaars kunnen
-zich daardoor richten op waar ze het beste in zijn: het schrijven van
-code. Hierdoor stijgt de productiviteit en wordt de doorlooptijd van idee
-tot product korter.
+Op dat punt gaat automatisering niet meer alleen over snelheid. Dan gaat het over
+betrouwbaarheid, onderhoudbaarheid en het voorkomen van onnodige verstoring in het team.
 
-## 3. **Verhoogde samenwerking en minder bottlenecks**
+## Wat teams merken als dit te lang blijft liggen
 
-In een traditionele software ontwikkelingscyclus kunnen er veel bottlenecks
-ontstaan tussen verschillende personen of teams.
-Automatisering brengt deze teams en collega's dichter bij elkaar door een gedeelde
-verantwoordelijkheid voor zowel de ontwikkeling als het beheer van software.
+Als delivery en platformwerk te lang informeel georganiseerd blijven, zie je meestal
+dezelfde gevolgen terugkomen.
 
-Automatisering speelt hierin een cruciale rol, omdat taken zoals het
-opzetten van infrastructuur, het configureren van omgevingen, en het
-uitvoeren van tests automatisch worden afgehandeld. Dit minimaliseert
-overdrachtsmomenten en zorgt ervoor dat alle teamleden zich kunnen
-concentreren op hun kerntaken, zonder tijd te verliezen aan handmatige
-processen.
+Releases worden minder voorspelbaar. Kleine verschillen tussen pipelines zorgen voor
+extra uitzoekwerk. Problemen kosten meer tijd om op te lossen, omdat niet meteen duidelijk
+is waar het misgaat of wie er iets van weet. Nieuwe repositories of teams kosten meer
+tijd om goed in te richten dan nodig zou moeten zijn.
 
-Door bottlenecks te verwijderen, kan het hele team sneller schakelen,
-wat de productiviteit verhoogt.
+Voor developers betekent dat meer context switching. Voor tech leads en engineering managers
+betekent het dat operationele details te veel aandacht vragen. En voor de organisatie als
+geheel betekent het dat delivery kwetsbaarder wordt dan nodig.
 
-## 4. **Meer consistentie en minder fouten**
+## Wat betere automatisering daadwerkelijk oplost
 
-Handmatige processen zijn foutgevoelig, vooral wanneer teams onder druk
-staan om snel te leveren. Automatisering zorgt ervoor dat elk proces, of
-het nu gaat om testen, deployen of configuratiebeheer, consistent wordt
-uitgevoerd zonder de kans op menselijke fouten.
+Goede automatisering levert meer op dan tijdswinst.
 
-Bijvoorbeeld, een goed opgezette CI/CD-pipeline zal een deployment op
-dezelfde manier uitvoeren op alle omgevingen, ongeacht hoe vaak je het uitvoert.
-Dit zorgt voor voorspelbaarheid en vertrouwen in de kwaliteit van de software die
-je oplevert. Door minder fouten te maken, hoeft het team minder tijd te
-besteden aan het verhelpen van bugs en kan het zich richten op het bouwen
-van nieuwe functionaliteit.
+### Minder handmatig werk en minder afhankelijkheid van individuen
 
-## 5. **Betere monitoring en meer inzicht**
+Terugkerende stappen zoals builds, tests, deployments en kwaliteitschecks hoeven niet steeds
+opnieuw per project te worden bedacht. Daardoor wordt het team minder afhankelijk van losse
+experts of kennis die vooral in hoofden zit.
 
-Automatisering stopt niet bij de deployment van software. Het biedt ook
-de mogelijkheid om continu te monitoren en te leren van de prestaties van
-de applicatie. Geautomatiseerde monitoringtools kunnen realtime feedback
-geven over hoe de applicatie presteert in productie, waardoor teams snel
-kunnen reageren op problemen voordat gebruikers er last van hebben.
+### Meer consistentie tussen teams en repositories
 
-Deze continue stroom van feedback stelt teams in staat om hun processen
-te optimaliseren, prestaties te verbeteren en snel te reageren op
-veranderingen in de behoeften van de klant.
+Als pipelines, templates en checks herbruikbaar worden, ontstaat er meer standaardisatie.
+Dat maakt het delivery-platform beter onderhoudbaar en verlaagt de drempel om nieuwe
+repositories of nieuwe teams op een nette manier aan te sluiten.
 
-## 6. **Meer focus op innovatie**
+Wie hier structureler naar wil kijken, kan beginnen op de
+[servicespagina](/services/) of direct bekijken hoe
+[DevOps Platform Care](/devops-platform-care/) werkt.
 
-Doordat automatisering repetitieve en handmatige taken wegneemt, hebben
-teams meer tijd en ruimte om te focussen op innovatie. In plaats van vast
-te zitten in technical debt, onderhoud en troubleshooting, kunnen ze
-experimenteren met nieuwe ideeën, nieuwe features bouwen en hun producten
-verder ontwikkelen.
+### Minder verstoring voor developers
 
-Het resultaat? Een meer gemotiveerd team dat meer waarde toevoegt aan het
-bedrijf, wat uiteindelijk leidt tot meer klanttevredenheid en
-bedrijfsresultaten.
+In veel organisaties komt platformwerk uiteindelijk terecht bij developers of tech leads.
+Dat is logisch, maar ook kostbaar. Betere automatisering haalt een deel van dat ad-hoc werk
+weg, zodat het team zich meer kan richten op productontwikkeling.
 
-## Conclusie
+### Betrouwbaardere delivery
 
-De impact van automatisering in het software ontwikkelproces op
-teamproductiviteit is enorm. Van versnelde feedback loops en
-geoptimaliseerde CI/CD-pipelines tot meer samenwerking en minder
-fouten—automatisering maakt het mogelijk voor teams om sneller,
-efficiënter en met hogere kwaliteit te werken.
+Minder handmatige stappen betekent minder variatie en minder fouten. Daardoor wordt delivery
+niet alleen sneller, maar vooral consistenter en voorspelbaarder.
 
-In een wereld waarin de "time-to-market" cruciaal is, is het automatiseren
-van software ontwikkelprocessen niet langer een optie, maar een noodzaak.
-Het stelt je in staat om te concurreren, te innoveren en te groeien,
-terwijl je team tegelijkertijd gemotiveerd en productief blijft.
+## Het gaat niet alleen om scripts schrijven
 
-## Interesse?
+Niet alle automatisering is even waardevol.
 
-Wil je meer weten over hoe ik jouw organisatie kan helpen? [Neem
-contact op voor een vrijblijvend gesprek](mailto:info@mikebeemsterboer.nl).
+Een paar losse scripts kunnen tijdelijk helpen, maar lossen het onderliggende probleem meestal
+niet op. Voor groeiende softwareteams zit de echte winst vaker in zaken als:
+
+- herbruikbare YAML templates
+- standaard security- en quality checks
+- duidelijke governance rond pipelines, permissions en werkwijzen
+- betere releaseprocessen
+- minder variatie tussen teams en repositories
+
+Dan gaat automatisering dus niet alleen over techniek, maar over het beter inrichten van
+het delivery-platform als geheel.
+
+Als je nog werkt met oudere pipeline-opzet, dan is het ook nuttig om te kijken naar
+[Waarom overstappen van Classic Pipelines naar YAML logisch is](/posts/still-using-classic-pipelines-time-to-switch-to-yaml)
+en [hoe CI/CD pipelines softwareteams helpen sneller te schalen](/posts/how-ci-cd-pipelines-help-your-organization-scale-faster).
+
+## Wanneer dit een signaal is voor platformondersteuning
+
+Als developers of tech leads structureel platformwerk erbij doen, is dat meestal geen teken
+dat het team te weinig inzet toont. Het is eerder een signaal dat delivery en platformbeheer
+belangrijker zijn geworden dan de huidige manier van werken aankan.
+
+Voor veel softwareteams is dat precies de fase waarin een volledig intern platformteam nog
+te zwaar is, maar doorgaan op basis van losse oplossingen en ad-hoc eigenaarschap ook niet
+meer goed werkt.
+
+Dan helpt het om eerst scherp te krijgen waar de grootste knelpunten, risico's en quick wins
+zitten. Soms is een gerichte verbetering genoeg. Soms is er behoefte aan meer structurele
+aandacht voor CI/CD, standaarden en platformbeheer.
+
+## Herkenbaar?
+
+Herken je dit in jullie team? Dan is een DevOps Platform Scan vaak een goede eerste stap om
+duidelijk te krijgen waar automatisering en standaardisatie het meeste opleveren, en wat de
+meest logische vervolgstap is.
+
+[Lees meer over mijn diensten](/services/) of
+[plan een kennismakingsgesprek](mailto:info@mikebeemsterboer.nl?subject=Kennismaking%20DevOps%20Platform%20Engineering).

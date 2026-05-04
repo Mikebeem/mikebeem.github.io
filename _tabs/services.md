@@ -92,18 +92,18 @@ Typical project themes:
 These projects can be short and focused, or part of a broader platform
 improvement trajectory.
 
-## How existing service topics fit in
+## What this looks like in practice
 
-The work itself is still hands-on and practical. Topics I regularly help with
-include:
+The engagement model is built around Platform Scan, Platform Care, and focused
+improvement projects. Within those services, I regularly help with:
 
-- CI/CD Pipeline Setup and modernization as part of improvement projects
+- CI/CD pipeline setup and modernization
+- Reusable YAML templates and platform standardization
+- Azure DevOps, GitHub, or GitLab audits, governance, and health checks
 - Infrastructure as Code with Terraform and Bicep
 - Automation of builds, deployments, and repetitive operational work
-- Azure DevOps audits and DevOps health checks within the Platform Scan
-- Kickstart DevOps for teams that need a structured first step
-- Continuous Improvement through recurring Platform Care
-- Advanced DevOps Transformation for teams with broader platform or process changes
+- Security and quality checks as part of everyday delivery
+- Kubernetes, GitOps, and release automation where needed
 - Training and coaching to help teams adopt new standards and ways of working
 
 ## How we can start

@@ -94,18 +94,18 @@ Typische projectonderwerpen:
 Deze trajecten kunnen kort en gericht zijn, of onderdeel zijn van een bredere
 platformverbetering.
 
-## Waar ik concreet bij help
+## Hoe dit er concreet uitziet
 
-De dienstverlening is helder afgebakend, maar het werk blijft praktisch en
-hands-on. Ik help bijvoorbeeld met:
+De dienstverlening is opgebouwd rond Platform Scan, Platform Care en gerichte
+verbetertrajecten. Binnen die diensten help ik bijvoorbeeld met:
 
-- CI/CD Pipeline Setup en modernisering als onderdeel van verbeterprojecten
+- CI/CD pipeline setup en modernisering
+- Herbruikbare YAML templates en platformstandaardisatie
+- Azure DevOps-, GitHub- of GitLab-audits, governance en health checks
 - Infrastructure as Code met Terraform en Bicep
 - Automation van builds, deployments en terugkerend operationeel werk
-- Azure DevOps-audits en DevOps health checks binnen de Platform Scan
-- Kickstart DevOps voor teams die een gestructureerde eerste stap nodig hebben
-- Continuous Improvement via terugkerende Platform Care
-- Advanced DevOps Transformation voor teams met bredere platform- of procesverandering
+- Security- en quality checks als onderdeel van dagelijkse delivery
+- Kubernetes, GitOps en release automation waar nodig
 - Training en coaching om teams nieuwe standaarden en werkwijzen te laten borgen
 
 ## Hoe we kunnen starten

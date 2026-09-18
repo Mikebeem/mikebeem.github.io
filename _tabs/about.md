@@ -34,4 +34,5 @@ VAT ID: NL004960226B58
 ![Azure Developer](/assets/img/certifications/azure-developer-associate-600x600.png){: w="150" .left}
 ![Azure Administrator](/assets/img/certifications/azure-administrator-associate-600x600.png){: w="150" .left}
 ![Azure DevOps](/assets/img/certifications/azure-devops-engineer-expert-600x600.png){: w="150" .left}
+![Azure AI Engineer](/assets/img/certifications/azure-ai-engineer.png){: w="150" .left}
 ![IT4IT Foundation](/assets/img/certifications/badge-it4it-foundation.png){: w="150" .left}

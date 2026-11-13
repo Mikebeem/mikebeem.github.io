@@ -3,3 +3,22 @@ User-agent: *
 Disallow: /norobots/
 
 Sitemap: https://www.mikebeemsterboer.nl/sitemap.xml
+
+# AI/LLM crawlers
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+User-agent: Googlebot
+Allow: /

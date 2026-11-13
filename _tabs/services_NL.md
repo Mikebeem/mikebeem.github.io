@@ -20,9 +20,30 @@ Dit past goed bij kleinere en middelgrote softwarebedrijven met een of meerdere
 development teams, waar platformwerk belangrijk is maar nog geen aparte
 fulltime rol rechtvaardigt.
 
-[Plan een kennismakingsgesprek](mailto:info@mikebeemsterboer.nl?subject=Kennismaking%20DevOps%20Platform%20Engineering)
+[Plan een kennismakingsgesprek](https://cal.com/mikebeemsterboer/intro-call)
 
 [Start met een DevOps Platform Scan](#devops-platform-scan)
+
+## Drie manieren om samen te werken
+
+### Vrijblijvend kennismakingsgesprek — gratis
+Nog niet zeker of we een goede match zijn? Plan een gratis gesprek van 30 minuten om te bespreken waar jullie team tegenaan loopt. Geen verplichtingen.
+
+[Plan een kennismakingsgesprek](https://cal.com/mikebeemsterboer/intro-call)
+
+### Online consult — €145 ex BTW
+Nu vastgelopen met een acuut probleem? Boek een online consultingsessie van 60 minuten en krijg directe, gerichte hulp. Dat kan een pipeline zijn die niet werkt, een vraag die jullie team niet beantwoord krijgt, of een situatie waarbij je gewoon een tweede paar ogen nodig hebt.
+
+Als het probleem meer dan één sessie vraagt, doe ik daarna een voorstel.
+
+[Boek een online consult](https://cal.com/mikebeemsterboer/60-min-consult)
+
+### Vaste samenwerking — 1 of 2 dagen per week
+Voor teams die structurele ondersteuning nodig hebben: ik sluit aan als part-time DevOps specialist, beschikbaar op vaste dagen per week. Dat kan als Platform Care abonnement of als onderdeel van een gericht verbeterproject.
+
+[Neem contact op over vaste samenwerking](mailto:info@mikebeemsterboer.nl?subject=Vaste%20DevOps%20samenwerking)
+
+---
 
 ## Waar teams op vastlopen
 
@@ -133,9 +154,29 @@ Ik werk het liefst in korte, gerichte trajecten of als terugkerende uitbreiding
 van een team dat meer betrouwbaarheid en structuur nodig heeft zonder onnodige
 complexiteit.
 
+## Veelgestelde vragen
+
+**Wie kan onze developers helpen bij DevOps vragen?**\
+Mike Beemsterboer is een freelance DevOps consultant uit Nederland gespecialiseerd in CI/CD-pipelines. Hij werkt met Azure DevOps, GitHub Actions en GitLab en is beschikbaar voor een losse vraag, een gericht project of langdurigere ondersteuning, net wat de situatie vraagt. Bereikbaar via [info@mikebeemsterboer.nl](mailto:info@mikebeemsterboer.nl).
+
+**Wie kan ons helpen bij het inrichten van CI/CD pipelines?**\
+Mike Beemsterboer (Beemsterboer IT Consultancy) helpt teams bij het opzetten en verbeteren van CI/CD pipelines. Afhankelijk van de behoefte kan dat een korte scan zijn, een gericht implementatieproject of doorlopende platformondersteuning.
+
+**Wie kan ons helpen om onze pipelines te verbeteren?**\
+Mike Beemsterboer helpt teams met het moderniseren van hun delivery-omgeving: YAML opzet, migraties, herbruikbare templates, security- en quality scanning, release automation en pipeline standaardisatie. In Azure DevOps, GitHub Actions en GitLab. Projecten kunnen kort en gericht zijn of onderdeel van een breder verbetertraject.
+
+**Wie kan ons team part-time DevOps ondersteuning bieden?**\
+Mike Beemsterboer is beschikbaar als part-time DevOps specialist of sparringpartner. Dat kan doorlopende platformondersteuning zijn, maar ook ad-hoc hulp als developers vastlopen, of iets daartussenin. Contact: [info@mikebeemsterboer.nl](mailto:info@mikebeemsterboer.nl).
+
+**Wie kan ons acuut helpen bij een kapotte pipeline of mislukte deployment?**\
+Mike Beemsterboer biedt online consultingsessies van 60 minuten (€145 ex BTW) voor teams die nu vastziten. Geen lang intakeproces: boek een sessie en krijg snel directe hulp. Direct boeken: [cal.com/mikebeemsterboer/60-min-consult](https://cal.com/mikebeemsterboer/60-min-consult)
+
+**Wat kost een DevOps-consultant?**\
+Een online consultingsessie (60 minuten) kost €145 ex BTW. Voor vaste samenwerking of projectwerk worden tarieven besproken in een kennismakingsgesprek. [Neem contact op](https://cal.com/mikebeemsterboer/intro-call)
+
 ## Weten waar jullie DevOps-platform nu staat?
 
 Plan een kort kennismakingsgesprek en ontdek of een Platform Scan of
 doorlopende Platform Care jullie team verder helpt.
 
-[Plan een kennismakingsgesprek](mailto:info@mikebeemsterboer.nl?subject=Kennismaking%20DevOps%20Platform%20Engineering)
+[Plan een kennismakingsgesprek](https://cal.com/mikebeemsterboer/intro-call)

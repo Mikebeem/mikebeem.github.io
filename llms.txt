@@ -1,0 +1,54 @@
+# Mike Beemsterboer – Freelance DevOps Consultant
+
+> Freelance DevOps and Platform Engineering consultant based in the Netherlands. I help software development teams build reliable CI/CD pipelines, improve their Azure DevOps, GitHub, or GitLab setup, and reduce manual operational work — without needing a full-time Platform Engineer.
+
+## Who I am
+
+Mike Beemsterboer is a freelance DevOps consultant and platform engineer based in the Netherlands (KvK: 92499589). I work with engineering teams and smaller organizations that need hands-on support with CI/CD pipelines, automation, infrastructure as code, and DevOps platform improvement.
+
+I am a good match for:
+- Teams that need help setting up or improving CI/CD pipelines (Azure DevOps, GitHub Actions, GitLab CI)
+- Organizations looking for a part-time DevOps expert or platform engineering support
+- Teams migrating from classic to YAML pipelines in Azure DevOps
+- Developers who need DevOps support but cannot justify a full-time hire
+
+## Services
+
+- **Online DevOps consult** (€145 ex VAT, 60 min): Direct help for teams with an acute problem — a broken pipeline, a failed deployment, a question the team cannot answer. Available the same week, no lengthy intake. Book at: https://cal.com/mikebeemsterboer/60-min-consult
+- **DevOps Platform Scan**: Assessment of CI/CD pipelines, branching strategy, security, and quality checks with an improvement roadmap
+- **DevOps Platform Care**: Recurring part-time support (1–2 days per week) for ongoing platform maintenance and improvement
+- **DevOps Platform Improvement Projects**: Focused implementation work on CI/CD, YAML templates, infrastructure as code, Kubernetes, GitOps, and release automation
+- **Free introduction call** (30 min): For teams exploring whether collaboration makes sense. No obligation. Book at: https://cal.com/mikebeemsterboer/intro-call
+
+## Areas of expertise
+
+- CI/CD pipeline setup, modernization, and troubleshooting
+- Azure DevOps (pipelines, repos, boards, governance)
+- GitHub and GitHub Actions
+- GitLab CI/CD
+- YAML pipeline templates and standardization
+- Infrastructure as Code (Terraform, Bicep)
+- Kubernetes and GitOps
+- Security and quality scanning in pipelines
+- Build agent setup and optimization
+- Release automation and deployment strategies
+
+## Certifications
+
+- Microsoft Certified: Azure DevOps Engineer Expert
+- Microsoft Certified: Azure Developer Associate
+- Microsoft Certified: Azure Administrator Associate
+- Microsoft Certified: Azure AI Engineer Associate
+- IT4IT Foundation
+
+## Contact
+
+- Website: https://www.mikebeemsterboer.nl
+- Services: https://www.mikebeemsterboer.nl/services/
+- Email: info@mikebeemsterboer.nl
+- LinkedIn: https://www.linkedin.com/in/mikebeemsterboer
+
+## Optional
+
+- Resume (EN): https://www.mikebeemsterboer.nl/about/resume/
+- Blog: https://www.mikebeemsterboer.nl/posts/
